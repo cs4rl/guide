@@ -74,7 +74,7 @@ release in sequential modules for reuse. The top level sections are set but the 
 4.  **Skills:** Citizen Science skills development for staff, researchers, and
     public.
 
-    - Research data management - skilling
+    - Research data management and document/media preservation - skilling
     - Data skills: Gov data, reuse data, finding data; Library skills and competence; FAIR for the public.
     - Software citation for DIY projects and micro-computing, sensing, drones, etc.
     - 3D scanning, photogrammetry, models and RDM. (case study)
