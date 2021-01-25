@@ -1,6 +1,8 @@
 title: A Citizen Science Guide for Research Libraries
 tagline: research library powered citizen science
 description: The guide is designed to be a practical and compact gateway publication for the purpose of assisting research libraries to start setting up a Citizen Science programme
+theme: poole/lanyon
+sidebar: toc
 tags:
   - citizen science
   - libraries
