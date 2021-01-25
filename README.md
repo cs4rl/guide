@@ -113,6 +113,6 @@ Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), unless otherwise
 stated. <https://creativecommons.org/licenses/by-sa/4.0/> \| Publication:
 <https://github.com/CitSci-WG/guide>.
 
-Imprint: Responsible for the content of the domain https://github.com/CitSci-WG/guide/ - Simon Worthington (LIBER CSWG Secretary), Lausitzer Platz 10, 10997 Berlin, Germany. E-mail: simon.worthington AT tib.eu | Internet: [https://libereurope.eu/working-group/liber-citizen-science-working-group/](https://libereurope.eu/working-group/liber-citizen-science-working-group/). The respective authors are responsible for the content of their posts.
+Imprint: Responsible for the content of the domain https://github.com/CitSci-WG/guide/ - Simon Worthington (LIBER CSWG Secretary), Lausitzer Platz 10, 10997 Berlin, Germany. E-mail: simon.worthington AT tib.ee - Internet: [https://libereurope.eu/working-group/liber-citizen-science-working-group/](https://libereurope.eu/working-group/liber-citizen-science-working-group/). The respective authors are responsible for the content of their posts.
 
 Data protection: No data trackers are used on this site and no personal information is stored. Version 1.0, 25 Jan 2021.
