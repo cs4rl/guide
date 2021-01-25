@@ -33,17 +33,24 @@ As a starting point the guide will use four recommendations for Citizen Science
 from the [LIBER Open Science Roadmap](https://doi.org/10.5281/zenodo.1303002):
 infrastructures; good scientific practice; guidelines, and; skilling.
 
-## Contents
+## Contents (TBC)
 
 The content will be organised around the following four main sections and
-release in sequential modules for reuse:
+release in sequential modules for reuse. The top level sections are set but the section contents should be seen as working ideas.
 
 1.  **Infrastructures:** As being active in the development of infrastructure
     for researchers to carry out Citizen Science;
 
+    - Open Science research toolkits for the public: Cloud based open-source research tools and webspace provision for the public, as well as simple guides for their use. (case study)
+    - Library Space Technology Network ([LSTN](https://lstn.wolba.ch/)) - 'The LSTN project offers public library communities the chance to build and engage with space technology'. Opportunity to install ground station, explore metadata, and engage in micro-satellites with [MetaSat](https://schema.space/). Biblioteca Municipală "B.P. Hasdeu" Chișinău, Moldova. LSTN is a project by [Wolbach Library](https://library.cfa.harvard.edu/) in collaboration with [Libre Space Foundation](https://libre.space/). (case study)
+    - Citizen Science and Open Access Literature - Citizen Dashboards, data mining, etc. How can the public use and distribute OA literature at the same time as learning data science skills. [Open Climate Knowledge](https://ockproject.org/) is one such project in the area of climate change. (case study)
+
+
 2.  **Good [open] scientific practice:** as managing bodies around knowledge
     libraries that can translate good [Open Science] scholarly practice into new
     Citizen Science fields;
+
+    
 
 3.  **Guidelines:** develop guidelines for Citizen Science activities involving
     the library, and;
