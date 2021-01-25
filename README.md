@@ -1,3 +1,7 @@
+---
+layout: page
+title: Home
+---
 
 \#CS4RL
 
@@ -50,7 +54,7 @@ release in sequential modules for reuse. The top level sections are set but the 
     libraries that can translate good [Open Science] scholarly practice into new
     Citizen Science fields;
 
-    
+
 
 3.  **Guidelines:** develop guidelines for Citizen Science activities involving
     the library, and;
