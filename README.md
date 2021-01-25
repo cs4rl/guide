@@ -1,3 +1,9 @@
+---
+title: A Citizen Science Guide for Research Libraries
+slug: about
+sidenav: true
+---
+
 \#CS4RL
 
 From the [LIBER Citizen Science Working
