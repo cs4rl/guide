@@ -1,7 +1,3 @@
----
-layout: default
----
-
 \#CS4RL
 
 From the [LIBER Citizen Science Working
