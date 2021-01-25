@@ -1,5 +1,4 @@
 ---
-layout: page
 title: A Citizen Science Guide for Research Libraries
 description: The guide is designed to be a practical and compact gateway publication for the purpose of assisting research libraries to start setting up a Citizen Science programme
 tags: citizen science; libraries; LIBER; CS4RL; CSWG; data science
