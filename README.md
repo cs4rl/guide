@@ -1,5 +1,3 @@
-# A Citizen Science Guide for Research Libraries
-
 \#CS4RL
 
 From the [LIBER Citizen Science Working
