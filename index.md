@@ -86,7 +86,7 @@ release in sequential modules for reuse. The top level sections are set but the 
 ## Contact
 
 Editor-in-chief, Simon Worthington, <simon.worthington@tib.eu> \|
-[\@mrchristian99](https://twitter.com/mrchristian99)
+[@mrchristian99](https://twitter.com/mrchristian99)
 
 ## Roadmap
 
