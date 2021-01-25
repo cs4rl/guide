@@ -9,7 +9,7 @@ A book to be released incrementally in sections before the end of 2021.
 *Working document - v1.0 [#268bdca](268bdcab80b51784323a2f093c5b71ce8a230363),
  25 Jan 2020*
 
-## Invites to contribute
+## Invite to contribute
 
 Contributions are warmly welcomed by the editorial board on ideas or examples of
 connecting the public with research library activities. Different types and sizes of contributions welcome: step-by-step guides, short picture and documentation stories, to pointers to online resources like videos or learning packages. In addition suggestions for sections outline are welcome. The publication will be
