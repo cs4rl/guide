@@ -33,7 +33,7 @@ As a starting point the guide will use four recommendations for Citizen Science
 from the [LIBER Open Science Roadmap](https://doi.org/10.5281/zenodo.1303002):
 infrastructures; good scientific practice; guidelines, and; skilling.
 
-## Contents (TBC)
+## Contents
 
 The content will be organised around the following four main sections and
 release in sequential modules for reuse. The top level sections are set but the section contents should be seen as working ideas.
@@ -50,13 +50,38 @@ release in sequential modules for reuse. The top level sections are set but the 
     libraries that can translate good [Open Science] scholarly practice into new
     Citizen Science fields;
 
-
+    - Ethics, good practices
+    - Open Hardware: DIY computing, micro-computers, and Raspberry Pis
+    - Coding: Democratizing data science - [British Library Notebook examples](https://github.com/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources) -  Jupyter Notebooks
+    - Wikimedia in residence, and Wikimedia Open Science fellow
+    - Qualified self and health:  For example [OpenHuman](https://www.openhumans.org/)
+    Digital civics: volunteering, privacy, infodemic, extending open peer review to news media.
+    - Decolonising science, Black Lives Matter (BLM), and Black History
 
 3.  **Guidelines:** develop guidelines for Citizen Science activities involving
     the library, and;
 
+    - UN Sustainable Development Goals
+    - Creating a single point of contact
+    - Spaces and services for youth climate activism, climate activism, Energy Tech - e.g., Naturkundemuseum Berlin. Moving from activism to participation and learning.
+    - Digital Sovereignty AKA Smart Cities: Barcelona City programme - EU funded [Decode project](https://decodeproject.eu/). (case study)
+    - Library Labs: new spaces and activities: LIL Library Innovation Lab, Harvard Law Library - [Alterspace](https://lil.law.harvard.edu/projects/alterspace/) and [Git Physical](https://lil.law.harvard.edu/blog/2017/08/10/git-physical/). British Library ['Building Library Labs'](https://blogs.bl.uk/digital-scholarship/2019/02/the-world-wide-lab-building-library-labs-part-ii.html) series.
+    - Exhibition and accompanying learning activities: onsite, offsite, outside, seasonal.
+    - How to develop, implement, and evaluate CS programme.
+    - What does it mean that CS is one of the [8 pillars of Open Science](https://www.ucl.ac.uk/library/open-science/8-pillars-open-science)?
+    - E-course about Citizen Science (Szymon Andrzejewski): what are considerations for making sure content is MOOC compatible?
+
 4.  **Skills:** Citizen Science skills development for staff, researchers, and
     public.
+
+    - Research data management - skilling
+    - Data skills: Gov data, reuse data, finding data; Library skills and competence; FAIR for the public.
+    - Software citation for DIY projects and micro-computing, sensing, drones, etc.
+    - 3D scanning, photogrammetry, models and RDM. (case study)
+    - Infodemic response - COVID WHO/Wikipedia (are they working with libraries - will ask)
+    - Project coordination & management
+
+**Glossary:** start with Simple Knowledge Organization System ([SKOS](https://www.w3.org/2004/02/skos/)) terms, then fit to taxonomies, add to Wikidata, then describe. Use as a SEO primer. Here is an [Open Science](https://demo.hedgedoc.org/Dk4aKir9RyO1pi3jwr4Psw#Outline) example.
 
 ## Contact
 
