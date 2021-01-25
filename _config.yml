@@ -1,6 +1,7 @@
 title: A Citizen Science Guide for Research Libraries
 tagline: data powered citizen science
 description: The guide is designed to be a practical and compact gateway publication for the purpose of assisting research libraries to start setting up a Citizen Science programme
+remote_theme: poole/lanyon
 tags:
   - citizen science
   - libraries
@@ -8,4 +9,3 @@ tags:
   - CS4RL
   - CSWG
   - data science
-  
