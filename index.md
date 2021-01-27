@@ -28,7 +28,7 @@ The guide will address the unique context of research libraries – as becoming
 the ‘go to place’ for the new and exciting Open Science data world that is
 opening up to the wider public.
 
-As a starting point the guide will use four recommendations for Citizen Science
+As a starting point the guide will use the four recommendations for Citizen Science
 from the [LIBER Open Science Roadmap](https://doi.org/10.5281/zenodo.1303002):
 infrastructures; good scientific practice; guidelines, and; skilling.
 
