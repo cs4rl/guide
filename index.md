@@ -97,10 +97,10 @@ a first full version by the end of 2021.
 ## Production
 
 The book is intended as a short guide and will be approximately one hundred
-pages in length. The publication will be produced as multi-format and
-multi-channel (print-on-demand, PDF, Webbook, website, eBook, and as a Jupyter
+pages in length. The publication will be produced in conventional and sprint/dash book sprints, as multi-format and
+multi-channel distribution (print-on-demand, PDF, Webbook W3C+, website, eBook, and as a Jupyter
 Book – and will be technically designed for reuse, for example in – community
-translations or in MOOCs.
+translations or in MOOCs. High quality open standards, metadata, and modern sematic/computational publishing are a priority and research interest of the production process.
 
 Book sections will be released incrementally as they are ready. Ideally the book
 will become a community owned publication with regular updates.
@@ -132,6 +132,8 @@ stated. <https://creativecommons.org/licenses/by-sa/4.0/> \| Publication:
 Ayris, Paul, Bernal, Isabel, Cavalli, Valentino, Dorch, Bertil, Frey, Jeannette,
 Hallik, Martin, Hormia-Poutanen, Kristiina, et al. “LIBER Open Science Roadmap”.
 Zenodo, July 2, 2018. doi: <https://doi.org/10.5281/zenodo.1303002>. Page 29.
+
+Mahey, Al-Abdulla, Ames, Bray, Candela, Chambers, Derven, et al. Open a Glam Lab. Doha, Qatar: Digital Cultural Heritage Innovation Labs, 2019. https://glamlabs.io/books/open-a-glam-lab/.
 
 Cavalier, Darlene, Caroline Nickerson, Robin Salthouse, and Dan Stanton, eds.
 The Library & Community Guide to Citizen Science. SciStarter, 2020 (Revised
