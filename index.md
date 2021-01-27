@@ -1,13 +1,12 @@
-
 \#CS4RL
 
 From the [LIBER Citizen Science Working
 Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/).
 
-A book to be released incrementally in sections before the end of 2021.
+A guide book of around one hundred pages to be released incrementally in sections before the end of 2021.
 
 *Working document - v1.0 [#268bdca](268bdcab80b51784323a2f093c5b71ce8a230363),
- 25 Jan 2020*
+ 27 Jan 2020*
 
 ## Invite to contribute
 
@@ -36,7 +35,7 @@ infrastructures; good scientific practice; guidelines, and; skilling.
 ## Contents
 
 The content will be organised around the following four main sections and
-release in sequential modules for reuse. The top level sections are set but the section contents should be seen as working ideas.
+release in sequential modules for reuse. The top level sections are set but the section contents should be seen as working ideas or suggestions for content.
 
 1.  **Infrastructures:** As being active in the development of infrastructure
     for researchers to carry out Citizen Science;
@@ -61,11 +60,13 @@ release in sequential modules for reuse. The top level sections are set but the 
 3.  **Guidelines:** develop guidelines for Citizen Science activities involving
     the library, and;
 
+    - Advocacy
+    - Strategy
     - UN Sustainable Development Goals
     - Creating a single point of contact
     - Spaces and services for youth climate activism, climate activism, Energy Tech - e.g., Naturkundemuseum Berlin. Moving from activism to participation and learning.
     - Digital Sovereignty AKA Smart Cities: Barcelona City programme - EU funded [Decode project](https://decodeproject.eu/). (case study)
-    - Library Labs: new spaces and activities: LIL Library Innovation Lab, Harvard Law Library - [Alterspace](https://lil.law.harvard.edu/projects/alterspace/) and [Git Physical](https://lil.law.harvard.edu/blog/2017/08/10/git-physical/). British Library ['Building Library Labs'](https://blogs.bl.uk/digital-scholarship/2019/02/the-world-wide-lab-building-library-labs-part-ii.html) series.
+    - Library Labs: new spaces and activities: LIL Library Innovation Lab, Harvard Law Library - [Alterspace](https://lil.law.harvard.edu/projects/alterspace/) and [Git Physical](https://lil.law.harvard.edu/blog/2017/08/10/git-physical/). British Library ['Building Library Labs'](https://blogs.bl.uk/digital-scholarship/2019/02/the-world-wide-lab-building-library-labs-part-ii.html) series. Also GLAM Lab, see the book [Open a Glam Lab](https://glamlabs.io/books/open-a-glam-lab/) from https://glamlabs.io/
     - Exhibition and accompanying learning activities: onsite, offsite, outside, seasonal.
     - How to develop, implement, and evaluate CS programme.
     - What does it mean that CS is one of the [8 pillars of Open Science](https://www.ucl.ac.uk/library/open-science/8-pillars-open-science)?
@@ -151,4 +152,4 @@ stated. <https://creativecommons.org/licenses/by-sa/4.0/> \| Publication:
 
 Imprint: Responsible for the content of the domain https://github.com/CitSci-WG/guide/ - Simon Worthington (LIBER CSWG Secretary), Lausitzer Platz 10, 10997 Berlin, Germany. E-mail: simon.worthington AT tib.eu - Internet: [https://libereurope.eu/working-group/liber-citizen-science-working-group/](https://libereurope.eu/working-group/liber-citizen-science-working-group/). The respective authors are responsible for the content of their posts.
 
-Data protection: No data trackers are used on this site and no personal information is stored. Version 1.0, 25 Jan 2021.
+Data protection: No data trackers are used on this site and no personal information is stored. Data protection notice - version 1.0, 25 Jan 2021.
