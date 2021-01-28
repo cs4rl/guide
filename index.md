@@ -1,3 +1,5 @@
+<script src="https://hypothes.is/embed.js" async></script>
+
 \#CS4RL
 
 From the [LIBER Citizen Science Working
