@@ -1,6 +1,11 @@
-<script src="https://hypothes.is/embed.js" async></script>
+<script type="application/json" class="js-hypothesis-config">
+  {
+    "openSidebar": true
+  }
+</script>
+<script async src="https://hypothes.is/embed.js"></script>
 
-[]\#CS4RL](https://twitter.com/search?q=%23CS4RL&src=typed_query)
+[\#CS4RL](https://twitter.com/search?q=%23CS4RL&src=typed_query)
 
 From the [LIBER Citizen Science Working
 Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/).
@@ -10,7 +15,7 @@ A guide book of around one hundred pages to be released incrementally in section
 *Working document - v1.0 GitHub [#268bdca](https://github.com/CitSci-WG/guide//releases/),
  27 Jan 2020* | [Issue tracker](https://github.com/CitSci-WG/guide/issues) | [Notes](notes.md)
 
-> Add comments using the https://hypothes.is/ menu to the right.
+> Add comments using the [Hypothes.is](https://hypothes.is/) menu to the top right.
 
 ## Invite to contribute
 
