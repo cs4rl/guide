@@ -1,14 +1,16 @@
 <script src="https://hypothes.is/embed.js" async></script>
 
-\#CS4RL
+[]\#CS4RL](https://twitter.com/search?q=%23CS4RL&src=typed_query)
 
 From the [LIBER Citizen Science Working
 Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/).
 
 A guide book of around one hundred pages to be released incrementally in sections before the end of 2021.
 
-*Working document - v1.0 [#268bdca](268bdcab80b51784323a2f093c5b71ce8a230363),
- 27 Jan 2020*
+*Working document - v1.0 GitHub [#268bdca](https://github.com/CitSci-WG/guide//releases/),
+ 27 Jan 2020* | [Issue tracker](https://github.com/CitSci-WG/guide/issues) | [Notes](notes.md)
+
+> Add comments using the https://hypothes.is/ menu to the right.
 
 ## Invite to contribute
 

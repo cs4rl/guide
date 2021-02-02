@@ -7,3 +7,7 @@ tags:
   - CS4RL
   - CSWG
   - data science
+plugins:
+  - jekyll-seo-tag
+twitter:
+  username: mrchristian99
