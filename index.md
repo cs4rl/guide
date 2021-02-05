@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Citizen Science Guide for Research Libraries"
-date:   2021-01-27 17:00:00 +0100
+title: "A Citizen Science Guide for Research Libraries"
+date: 2021-01-27 17:00:00 +0100
 categories: call
 image: https://cdn.shortpixel.ai/spai/w_712+q_lossy+ex_1+ret_img+to_webp/https://genr.eu/wp/wp-content/uploads/2021/02/sw-pic.jpg
 vertical: Code
