@@ -92,6 +92,7 @@ release in sequential modules for reuse. The top level sections are set but the 
     - How to develop, implement, and evaluate CS programme.
     - What does it mean that CS is one of the [8 pillars of Open Science](https://www.ucl.ac.uk/library/open-science/8-pillars-open-science)?
     - E-course about Citizen Science (Szymon Andrzejewski): what are considerations for making sure content is MOOC compatible?
+    - [The Collective Wisdom Handbook: perspectives on crowdsourcing in cultural heritage](https://britishlibrary.pubpub.org/) - designed for citizen science / history practitioners in libraries, museums and archives and other readers, the community review version is now open for comment.
 
 4.  **Skills:** Citizen Science skills development for staff, researchers, and
     public.
