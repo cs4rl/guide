@@ -4,6 +4,8 @@
 
 Edited by Paul Ayris, Bastian Greshake Tzovaras, Thomas Kaarstad, Jitka Stilund Hansen, and Simon Worthington
 
-LIBER, Citizen Science Working Group
+From the LIBER Citizen Science Working Group
 
-Version 1.0
+LIBER Europe
+
+Version 1.0, 2021
