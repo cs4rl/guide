@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Citizen Science for Research Libraries - A Guide"
+title:  "Citizen Science for Research Libraries–A Guide"
 date:   2021-06-01 17:00:00 +0200
 categories: about
 image: https://cdn.shortpixel.ai/spai/w_712+q_lossy+ex_1+ret_img+to_webp/https://genr.eu/wp/wp-content/uploads/2021/02/sw-pic.jpg
@@ -22,7 +22,7 @@ Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/
 
 A guide book of around one hundred pages to be released incrementally in sections before the end of 2021.
 
-*Working document - v1.1 GitHub [#268bdca](https://github.com/CitSci-WG/guide//releases/),
+*Working document - v1.1 [GitHub](https://github.com/CitSci-WG/guide),
 1 June 2021* | [Issue tracker](https://github.com/CitSci-WG/guide/issues) | [Notes](notes.md)
 
 > Add comments using the [Hypothes.is](https://hypothes.is/) menu to the top right.
