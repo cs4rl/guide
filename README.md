@@ -1,4 +1,4 @@
-# Citizen Science for Research Libraries—A Guide
+# Citizen Science for Research Libraries–A Guide
 
 #CS4RL
 
