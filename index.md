@@ -15,8 +15,6 @@ excerpt: " "
 </script>
 <script async src="https://hypothes.is/embed.js"></script>
 
-# Citizen Science for Research Libraries - A Guide
-
 [\#CS4RL](https://twitter.com/search?q=%23CS4RL&src=typed_query)
 
 From the [LIBER Citizen Science Working
