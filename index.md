@@ -19,7 +19,7 @@ excerpt: " "
 
 [\#CS4RL](https://twitter.com/search?q=%23CS4RL&src=typed_query)
 
-From the [LIBER Citizen Science Working
+From LIBER Europe and the [LIBER Citizen Science Working
 Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/).
 
 A guide book of around one hundred pages to be released incrementally in sections before the end of 2021.
