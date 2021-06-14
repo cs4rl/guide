@@ -31,6 +31,19 @@ A guide book of around one hundred pages to be released incrementally in section
 
 The Editors-in-Chief: Simon Worthington (simon.worthington@tib.eu) and Thomas Kaarsted (thk@bib.sdu.dk).
 
+Table of Contents
+=================
+
+  * [Mission statement](#Mission)
+  * [Contents](#contents)
+    * [Glossary:](#glossary)
+  * [Roadmap](#roadmap)
+  * [Editorial management / peer review / roles](#editorial)
+  * [Notes for editors: Style guide, and contribution templates](#editors)
+    * [Style Guide](#style) 
+    * [Template Guides](#template) 
+  * [Production](#production)
+    
 ## Mission statement
 
 The guide is designed to be a practical and compact gateway publication for the
