@@ -236,11 +236,15 @@ We would encourage contributors to do the following:
 
 -   The text is a maximum of 400 words, 2800 characters including spaces
     (including Tables, Figures, Photos)
+    
+    Title and headline. 
 
 -   One image
 
 -   Add three or more learning outputs in an info box style. What you will learn
-    in this section.
+    in this section. An additional 300 words can be give to the 'learning outputs#.
+
+Total for section into 700 words.
 
 #### Quick start guide - [p5 example from SciStarter guide](http://media.scistarter.org/curated/The+Library+and+Community+Guide+to+Citizen+Science.pdf)
 
