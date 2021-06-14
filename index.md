@@ -67,13 +67,13 @@ infrastructures; good scientific practice; guidelines, and; skilling.
 
 The content will be organised around the following four main sections and release in sequential modules for reuse. The top level sections are set but the section contents should be seen as working ideas or suggestions for content.
 
-1.  **Infrastructures:** As being active in the development of infrastructure for researchers to carry out Citizen Science;
+1.  **Skills:** Citizen Science skills development for staff, researchers, and the public;
 
-2.  **Good [open] scientific practice:** as managing bodies around knowledge libraries that can translate good [Open Science] scholarly practice into new Citizen Science fields;
+2.  **Infrastructures:** As being active in the development of infrastructure for researchers to carry out Citizen Science;
 
-3.  **Guidelines:** develop guidelines for Citizen Science activities involving the library, and;
+3.  **Good [open] scientific practice:** as managing bodies around knowledge libraries that can translate good [Open Science] scholarly practice into new Citizen Science fields, and;
 
-4.  **Skills:** Citizen Science skills development for staff, researchers, and the public.
+4.  **Guidelines:** develop guidelines for Citizen Science activities involving the library.
 
 ### Glossary 
 
