@@ -34,14 +34,14 @@ The Editors-in-Chief: Simon Worthington (simon.worthington@tib.eu) and Thomas Ka
 Table of Contents
 =================
 
-  * [Mission statement](#Mission-statement)
+  * [Mission statement](#mission-statement)
   * [Contents](#contents)
     * [Glossary:](#glossary)
   * [Roadmap](#roadmap)
-  * [Editorial management / peer review / roles](#editorial)
-  * [Notes for editors: Style guide, and contribution templates](#editors)
-    * [Style Guide](#style) 
-    * [Template Guides](#template) 
+  * [Editorial management / peer review / roles](#editorial-management)
+  * [Notes for editors: Style guide, and contribution templates](#notes-for-editors)
+    * [Style Guide](#style-guide) 
+    * [Template Guides](#template-guides) 
   * [Production](#production)
     
 ## Mission statement
@@ -73,13 +73,17 @@ The content will be organised around the following four main sections and releas
 
 4.  **Skills:** Citizen Science skills development for staff, researchers, and the public.
 
-**Glossary:** start with Simple Knowledge Organization System ([SKOS](https://www.w3.org/2004/02/skos/)) terms, then fit to taxonomies, add to Wikidata, then describe. Use as a SEO primer. Here is an [Open Science](https://demo.hedgedoc.org/Dk4aKir9RyO1pi3jwr4Psw#Outline) example.
+### Glossary 
+
+Start with Simple Knowledge Organization System ([SKOS](https://www.w3.org/2004/02/skos/)) terms, then fit to taxonomies, add to Wikidata, then describe. Use as a SEO primer. Here is an [Open Science](https://demo.hedgedoc.org/Dk4aKir9RyO1pi3jwr4Psw#Outline) example.
 
 ## Roadmap
 
 First section will be released July 2021, with the publication released as a first full version by the end of 2021.
 
-## Editorial management / peer review / roles
+## Editorial management 
+
+- peer review / roles
 
 **Co-Editors-in-Chief:** Simon Worthington and Thomas Kaarsted, reports to CSWG.
 The role is that of content planning and project management – that contributions
@@ -138,7 +142,9 @@ of agreement would be made with partners.
 **Collaborations:** These would orientate around content provision, advocacy,
 research and resource provision.
 
-## Notes for editors: Style guide, and contribution templates
+## Notes for editors
+
+- Style guide, and contribution templates
 
 Co-Editors-in-Chief Simon Worthington and Thomas Kaarsted will provide writers
 guidelines for you to distribute to contributors.
