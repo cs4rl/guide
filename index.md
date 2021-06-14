@@ -24,8 +24,8 @@ Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/
 
 A guide book of around one hundred pages to be released incrementally in sections before the end of 2021.
 
-*Working document - v1.1 [GitHub](https://github.com/CitSci-WG/guide),
-1 June 2021* | [Issue tracker](https://github.com/CitSci-WG/guide/issues) | [Notes](notes.md)
+*Working document - v1.2 [GitHub](https://github.com/CitSci-WG/guide),
+14 June 2021* | [Issue tracker](https://github.com/CitSci-WG/guide/issues) | [Notes](notes.md)
 
 > Add comments using the [Hypothes.is](https://hypothes.is/) menu to the top right.
 
