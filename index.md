@@ -34,7 +34,7 @@ The Editors-in-Chief: Simon Worthington (simon.worthington@tib.eu) and Thomas Ka
 Table of Contents
 =================
 
-  * [Mission statement](#Mission)
+  * [Mission statement](#Mission statement)
   * [Contents](#contents)
     * [Glossary:](#glossary)
   * [Roadmap](#roadmap)
