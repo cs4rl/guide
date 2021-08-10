@@ -121,8 +121,7 @@ Section editors are:
 3.  Guidelines for Citizen Science programme development in libraries – Paul
     Ayris, University College London
 
-4.  Citizen Science skilling for staff, researchers, and the public – Jitka
-    Stilund Hansen, Technical University of Denmark
+4.  Citizen Science Skilling for Staff, Researchers, and the Public – Jitka Stilund Hansen, DTU Library, Technical University of Denmark, ORCID iD: [0000-0002-5888-1221](https://orcid.org/0000-0002-5888-1221) e-mail: jstha@dtu.dk
 
 **Contributor:** A contributor would provide one or two articles in agreement
 with section editors following the templates and style sheet of the guide.
@@ -231,6 +230,8 @@ We would encourage contributors to do the following:
 17. For any additional details please contact the Co-Editors-in-Chief: Simon
     Worthington (<simon.worthington@tib.eu>) or Thomas Kaarsted
     (<thk@bib.sdu.dk>).
+    
+18. Author and editor profiles. ORCID ORCID iD followed by 16 digit number and not URL as commonlz used. No full stop or comma after ORCID iD or e-mail as to not interfere with both. Link both. See: Section editor Jitka Stilund Hansen, DTU Library, Technical University of Denmark, ORCID iD: [0000-0002-5888-1221](https://orcid.org/0000-0002-5888-1221) e-mail: jstha@dtu.dk    
 
 ### Template Guides
 
