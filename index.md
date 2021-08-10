@@ -177,7 +177,7 @@ We would encourage contributors to do the following:
 
 1.  Prepare the text in English. The Chicago Manual of Style 17th Edition (CMOS) is
     being used as the overall publication style. We will stay close to (CMOS) but not 100% complaint as we have many non/English native writers and stzles vary. Points to note will be:
-    1. Use American spelling if possible.
+    1. Use American English spelling if possible. I know it's a pain, but will make more sense to an international and US readership.
     2. Use the [Oxford Comma](https://cmosshoptalk.com/2020/02/11/oxford-chicago-and-the-serial-comma/). Which means the presence of a comma before and or or in a list of three or more items.  
 
 1.  Submit the paper in a template in the Google Drive (to be supplied).
