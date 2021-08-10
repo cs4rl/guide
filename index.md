@@ -175,46 +175,48 @@ We would encourage contributors to do the following:
 
 ### Style Guide
 
-1.  Prepare the text in English. The Chicago Manual of Style 17th Edition is
-    being used as the overall publication style.
+1.  Prepare the text in English. The Chicago Manual of Style 17th Edition (CMOS) is
+    being used as the overall publication style. We will stay close to (CMOS) but not 100% complaint as we have many non/English native writers and stzles vary. Points to note will be:
+    1. Use American spelling if possible.
+    2. Use the [Oxford Comma](https://cmosshoptalk.com/2020/02/11/oxford-chicago-and-the-serial-comma/). Which means the presence of a comma before and or or in a list of three or more items.  
 
-2.  Submit the paper in a template in the Google Drive (to be supplied).
+1.  Submit the paper in a template in the Google Drive (to be supplied).
 
-3.  The text should have a Title (between 1 and 10 words).
+1.  The text should have a Title (between 1 and 10 words).
 
-4.  The text should have a headline summary that briefly outlines the content of
+1.  The text should have a headline summary that briefly outlines the content of
     the section (max. 30 words).
 
-5.  For each introduction author submit a name and title and e-mail address.
+1.  For each introduction author submit a name and title and e-mail address.
 
-6.  Please divide the text into sections, with:
+1.  Please divide the text into sections, with:
 
     1.  **Headings H2,**
 
-    2.  *Subheadings H3.*
+    1.  *Subheadings H3.*
 
-7.  Do not include a Table of Contents.
+1.  Do not include a Table of Contents.
 
-8.  Use single space for spacing.
+1.  Use single space for spacing.
 
-9.  Do not use line spaces between paragraphs or for line spacing, instead use
+1.  Do not use line spaces between paragraphs or for line spacing, instead use
     space before and after paragraph or header.
 
-10. Use single column format.
+1. Use single column format.
 
-11. Tables and figures. To be placed in individual files. Tables should serve a
+1. Tables and figures. To be placed in individual files. Tables should serve a
     purpose and display cores data in a brief and structured way.
 
-12. Each Table and Figure should have a number and a brief description placed
+1. Each Table and Figure should have a number and a brief description placed
     below that correspond with the file. All Figures in min. 600 dpi resolution
     or vector graphic. Please embed figures and also upload to associated Google
     Drive folder (Google Docs have a habit or lowering resolutions.
 
-13. References: Do not list references in the text.
+1. References: Do not list references in the text.
 
-14. A maximum of three core references listed at the very bottom.
+1. A maximum of three core references listed at the very bottom.
 
-15. Use The Chicago Manual of Style 17th Edition style for references. All
+1. Use The Chicago Manual of Style 17th Edition style for references. All
     references should have an author or organization given first. Also please
     list a DOI for each reference if possible.
 
@@ -225,13 +227,13 @@ We would encourage contributors to do the following:
     Roadmap’. LIBER, 2 July 2018.
     [](https://doi.org/10.5281/zenodo.1303002https://doi.org/10.5281/zenodo.1303002).
 
-16. List references in alphabetical order at end of text.
+1. List references in alphabetical order at end of text.
 
-17. For any additional details please contact the Co-Editors-in-Chief: Simon
+1. For any additional details please contact the Co-Editors-in-Chief: Simon
     Worthington (<simon.worthington@tib.eu>) or Thomas Kaarsted
     (<thk@bib.sdu.dk>).
     
-18. Author and editor profiles. ORCID ORCID iD followed by 16 digit number and not URL as commonlz used. No full stop or comma after ORCID iD or e-mail as to not interfere with both. Link both. See: Section editor Jitka Stilund Hansen, DTU Library, Technical University of Denmark, ORCID iD: [0000-0002-5888-1221](https://orcid.org/0000-0002-5888-1221) e-mail: jstha@dtu.dk    
+1. Author and editor profiles. ORCID ORCID iD followed by 16 digit number and not URL as commonlz used. No full stop or comma after ORCID iD or e-mail as to not interfere with both. Link both. See: Section editor Jitka Stilund Hansen, DTU Library, Technical University of Denmark, ORCID iD: [0000-0002-5888-1221](https://orcid.org/0000-0002-5888-1221) e-mail: jstha@dtu.dk    
 
 ### Template Guides
 
