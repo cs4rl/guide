@@ -1,3 +1,3 @@
 # Citizen Science Glossary
 
- - FAIR Principles (FAIR Data Principles):
+ - FAIR Principles (FAIR Data Principles; FAIR Data):
