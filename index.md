@@ -81,7 +81,7 @@ Start with Simple Knowledge Organization System ([SKOS](https://www.w3.org/2004/
 
 ## Roadmap
 
-First section will be released July 2021, with the publication released as a first full version by the end of 2021.
+First section will be released Sept 2021, with the publication released as a first full version by the end of 2021.
 
 ## Editorial management 
 
