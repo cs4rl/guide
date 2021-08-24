@@ -236,7 +236,7 @@ We would encourage contributors to do the following:
     
 1. Author and editor profiles. ORCID ORCID iD: followed by 16 digit number and not URL as commonly used. No full stop or comma after ORCID iD or e-mail as to not interfere with both. Link to both and make links active in Gdoc. See example: Section editor Jitka Stilund Hansen, DTU Library, Technical University of Denmark, ORCID iD: [0000-0002-5888-1221](https://orcid.org/0000-0002-5888-1221) e-mail: jstha@dtu.dk    
 
-1. Refer to sections numbers with a #. So Section #1 or Section #2.
+1. Refer to sections numbers as Section #1 or Section #2.
 
 ### Template Guides
 
