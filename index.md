@@ -162,8 +162,7 @@ We would encourage contributors to do the following:
     documentation of past events; PDFs of promotional material, videos and video
     links so that we can look at how to creatively include these in articles.
 
--   References will be typeset as page notes, in a references section at the end
-    of the publication, and in a [Zotero Groups -
+-   References will be typeset as CMOS note bibliography per article, with no author date inline, and in a [Zotero Groups -
     Collection](https://www.zotero.org/groups/2420395/cswg/collections/HAJYX37C).
 
 -   If possible use Zotero citation manager in Google Docs and store citations
