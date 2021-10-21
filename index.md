@@ -185,7 +185,7 @@ We would encourage contributors to do the following:
 
 1. Capitalisation:
    1. For terms like Open Science, Open Access, Open Data, or FAIR Data, etc. Generally we will aim for lowercase words to keep the reading flow easy, follow this rule for movements, schools. https://7sage.com/admissions/lesson/capitalization/ Capitalize the names of movements and schools derived from proper nouns; lowercase those that are not. Unfortunately, there are some exceptions: “Cynic,” “Scholasticism” and “New Criticism,” for example, are capitalized when used as movements. Look a term up in Merriam-Webster if you're not sure. romanticism; Keynesian economics; cubism; Cynicism. So in our example 
-     2. FAIR Data would be capitalised as its the proper noun name of a movement
+     2. FAIR data would have acronym capitalised  
      3. Open science, open data, and open access &ndash; would all be lowercase
      4. Open source software &ndash; here we run into the 'rival camps' problem. There is the Free Software Foundation (Richard Stallman) and the Open Source (Eric Raymond) movement who disagree on ideologies. Properly the full term should be use Free and Open Source Software (FOSS) but its a mouthful. And there is more to the story. Our get out is to use the precompound adjective open-source.
      5. I will list more examples as they come up.
