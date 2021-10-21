@@ -189,8 +189,8 @@ We would encourage contributors to do the following:
      3. Open science, open data, and open access &ndash; would all be lowercase
      4. Open source software &ndash; here we run into the 'rival camps' problem. There is the Free Software Foundation (Richard Stallman) and the Open Source (Eric Raymond) movement who disagree on ideologies. Properly the full term should be use Free and Open Source Software (FOSS) but its a mouthful. And there is more to the story. Our get out is to use the precompound adjective open-source.
      5. I will list more examples as they come up.
-    1. Article titles capitalised, running headers only first word and after :
-    2. Job or role title if mentioned next to name, yes
+   1. Article titles capitalised as 'title capitalisation', running headers only first word and after :
+   2. Job or role title if mentioned next to name, yes
  
 1. Submit the paper in a template in the Google Drive (to be supplied).
 
