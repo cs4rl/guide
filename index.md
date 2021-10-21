@@ -180,6 +180,9 @@ We would encourage contributors to do the following:
     2. Use the [Oxford Comma](https://cmosshoptalk.com/2020/02/11/oxford-chicago-and-the-serial-comma/). Which means the presence of a comma before and or or in a list of three or more items.  
     3. En and em dash policy. For em dash use we'll keep with CMOS guidlines on em dash used for puntuation em dash with space before and after (USA and CMOS have no space but in Europe it is more common to have space either side. Make sure en dashes are used where needed and not hyphens. 
 
+1. Typesetting punctuation:
+    1. Use no breaking hyphens in phrases like Co&#8209;creation &ndash; Word instructions https://word.tips.net/T001116_Inserting_a_Non-Breaking_Hyphen.html &ndash; HTML https://www.toptal.com/designers/htmlarrows/punctuation/non-breaking-hyphen/
+
 1.  Submit the paper in a template in the Google Drive (to be supplied).
 
 1.  The text should have a Title (between 1 and 10 words).
