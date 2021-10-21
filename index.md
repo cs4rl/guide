@@ -185,6 +185,10 @@ We would encourage contributors to do the following:
 
 1.  Submit the paper in a template in the Google Drive (to be supplied).
 
+1.  Use of academic titles? https://github.com/cs4rl/guide/issues/35
+    2. Use them if provided by author?
+    3. Book information: Copyright pages, authors, etc? 
+
 1.  The text should have a Title (between 1 and 10 words).
 
 1.  The text should have a headline summary that briefly outlines the content of
