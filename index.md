@@ -185,17 +185,18 @@ We would encourage contributors to do the following:
 
 1. Capitalisation:
    1. For terms like Open Science, Open Access, Open Data, or FAIR Data, etc. Generally we will aim for lowercase words to keep the reading flow easy, follow this rule for movements, schools. https://7sage.com/admissions/lesson/capitalization/ Capitalize the names of movements and schools derived from proper nouns; lowercase those that are not. Unfortunately, there are some exceptions: “Cynic,” “Scholasticism” and “New Criticism,” for example, are capitalized when used as movements. Look a term up in Merriam-Webster if you're not sure. romanticism; Keynesian economics; cubism; Cynicism. So in our example 
-    2. FAIR Data would be capitalised as its the proper noun name of a movement
-    3. Open science, open data, and open access &ndash; would all be lowercase
-    4. Open source software &ndash; here we run into the 'rival camps' problem. There is the Free Software Foundation (Richard Stallman) and the Open Source (Eric Raymond) movement who disagree on ideologies. Properly the full term should be use Free and Open Source Software (FOSS) but its a mouthful. And there is more to the story. Our get out is to use the precompound adjective open-source.
-    5. I will list more examples as they come up.
+     2. FAIR Data would be capitalised as its the proper noun name of a movement
+     3. Open science, open data, and open access &ndash; would all be lowercase
+     4. Open source software &ndash; here we run into the 'rival camps' problem. There is the Free Software Foundation (Richard Stallman) and the Open Source (Eric Raymond) movement who disagree on ideologies. Properly the full term should be use Free and Open Source Software (FOSS) but its a mouthful. And there is more to the story. Our get out is to use the precompound adjective open-source.
+     5. I will list more examples as they come up.
+    1. Article titles capitalised, running headers only first word and after :
  
 
 1.  Submit the paper in a template in the Google Drive (to be supplied).
 
 1.  Use of academic titles? https://github.com/cs4rl/guide/issues/35 To be resolved. 21 Oct 2021
-    2. Use them if provided by author?
-    3. Book information: Copyright pages, authors, etc? 
+   2. Use them if provided by author in attribution? TBC
+   3. Book information: Copyright pages, authors, etc., do not use
 
 1.  The text should have a Title (between 1 and 10 words).
 
