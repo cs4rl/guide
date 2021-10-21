@@ -178,7 +178,7 @@ We would encourage contributors to do the following:
     being used as the overall publication style. We will stay close to (CMOS) but not 100% complaint as we have many non/English native writers and stzles vary. Points to note will be:
     1. Use American English spelling if possible. I know it's a pain, but will make more sense to an international and US readership.
     2. Use the [Oxford Comma](https://cmosshoptalk.com/2020/02/11/oxford-chicago-and-the-serial-comma/). Which means the presence of a comma before and or or in a list of three or more items.  
-    3. En and em dash policy. For em dash use we'll keep with CMOS guidlines on em dash used for puntuation em dash with no space before and after. Make sure en dashes are used where needed and not hyphens. 
+    3. En and em dash policy. For em dash use we'll keep with CMOS guidlines on em dash used for puntuation em dash with space before and after (USA and CMOS have no space but in Europe it is more common to have space either side. Make sure en dashes are used where needed and not hyphens. 
 
 1.  Submit the paper in a template in the Google Drive (to be supplied).
 
