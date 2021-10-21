@@ -6,6 +6,4 @@ Edited by Paul Ayris, Bastian Greshake Tzovaras, Thomas Kaarstad, Jitka Stilund 
 
 From the LIBER Citizen Science Working Group
 
-LIBER Europe
-
 Version 1.0, 2021
