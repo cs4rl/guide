@@ -176,16 +176,24 @@ We would encourage contributors to do the following:
 
 1.  Prepare the text in English. The Chicago Manual of Style 17th Edition (CMOS) is
     being used as the overall publication style. We will stay close to (CMOS) but not 100% complaint as we have many non/English native writers and stzles vary. Points to note will be:
-    1. Use American English spelling if possible. I know it's a pain, but will make more sense to an international and US readership.
-    2. Use the [Oxford Comma](https://cmosshoptalk.com/2020/02/11/oxford-chicago-and-the-serial-comma/). Which means the presence of a comma before and or or in a list of three or more items.  
-    3. En and em dash policy. For em dash use we'll keep with CMOS guidlines on em dash used for puntuation em dash with space before and after (USA and CMOS have no space but in Europe it is more common to have space either side. Make sure en dashes are used where needed and not hyphens. 
+    1. We will use an International English as the primary audience is English as a second language in Europe as the expectation of the reader leans towards UK English. For example end wods is ise and ize, but use US License as Creative Commons use the US form of license. This also applies to en and em dashes, use spaces unlike the US with no space.
+    3. Use the [Oxford Comma](https://cmosshoptalk.com/2020/02/11/oxford-chicago-and-the-serial-comma/). Which means the presence of a comma before and or or in a list of three or more items.  
+    4. En and em dash policy. For em dash use we'll keep with CMOS guidlines on em dash used for puntuation em dash with space before and after (USA and CMOS have no space but in Europe it is more common to have space either side. Make sure en dashes are used where needed and not hyphens. 
 
 1. Typesetting punctuation:
     1. Use no breaking hyphens in phrases like Co&#8209;creation &ndash; Word instructions https://word.tips.net/T001116_Inserting_a_Non-Breaking_Hyphen.html &ndash; HTML https://www.toptal.com/designers/htmlarrows/punctuation/non-breaking-hyphen/
 
+1. Capitalisation:
+   1. For terms like Open Science, Open Access, Open Data, or FAIR Data, etc. Generally we will aim for lowercase words to keep the reading flow easy, follow this rule for movements, schools. https://7sage.com/admissions/lesson/capitalization/ Capitalize the names of movements and schools derived from proper nouns; lowercase those that are not. Unfortunately, there are some exceptions: “Cynic,” “Scholasticism” and “New Criticism,” for example, are capitalized when used as movements. Look a term up in Merriam-Webster if you're not sure. romanticism; Keynesian economics; cubism; Cynicism. So in our example 
+    2. FAIR Data would be capitalised as its the proper noun name of a movement
+    3. Open science, open data, and open access &ndash; would all be lowercase
+    4. Open source software &ndash; here we run into the 'rival camps' problem. There is the Free Software Foundation (Richard Stallman) and the Open Source (Eric Raymond) movement who disagree on ideologies. Properly the full term should be use Free and Open Source Software (FOSS) but its a mouthful. And there is more to the story. Our get out is to use the precompound adjective open-source.
+    5. I will list more examples as they come up.
+ 
+
 1.  Submit the paper in a template in the Google Drive (to be supplied).
 
-1.  Use of academic titles? https://github.com/cs4rl/guide/issues/35
+1.  Use of academic titles? https://github.com/cs4rl/guide/issues/35 To be resolved. 21 Oct 2021
     2. Use them if provided by author?
     3. Book information: Copyright pages, authors, etc? 
 
