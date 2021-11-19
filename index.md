@@ -21,7 +21,7 @@ excerpt: "A practical guide designed to assist those organising and participatin
 
 \#CS4RL
 
-An open access and peer reviewed book
+An open access and peer-reviewed book
 
 Section Editor Jitka Stilund Hansen
 
