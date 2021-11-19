@@ -1,4 +1,19 @@
-# Book Information
+---
+layout: post
+title:  "Citizen Science for Research Libraries–A Guide"
+date:   2021-11-19 17:00:00 +0200
+categories: about
+image: media/93dcd6d1769ae63125aa42df55131efb.png
+vertical: Code
+excerpt: "A practical guide designed to assist those organising and participating in a citizen science project to get the most out of the experience."
+---
+
+<script type="application/json" class="js-hypothesis-config">
+  {
+    "openSidebar": true
+  }
+</script>
+<script async src="https://hypothes.is/embed.js"></script>
 
 ![](media/93dcd6d1769ae63125aa42df55131efb.png)
 
