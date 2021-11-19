@@ -30,7 +30,7 @@ Guide
 
 Published by the LIBER Citizen Science Working Group
 
-© 2021 the authors. All articles licensed [Creative Commons: Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0), unless otherwise stated.
+© 2021 the authors. Licensed [Creative Commons: Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0), unless otherwise stated.
 
 Read online, DOI: <https://doi.org/10.25815/hf0m-2a57>
 
