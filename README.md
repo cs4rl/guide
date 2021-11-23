@@ -13,4 +13,5 @@ Paged Web (Vivliostyle) https://vivliostyle.vercel.app/#src=https://raw.githubus
 Ebook https://github.com/cs4rl/guide/blob/main/book.epub
 
 Amazon DE https://www.amazon.de/Citizen-Science-Skilling-Library-Researchers/dp/8794233594/
+
 Amazon US https://www.amazon.com/Citizen-Science-Skilling-Library-Researchers/dp/8794233594/
