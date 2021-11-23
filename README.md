@@ -10,7 +10,7 @@ Version 1.0, 2021
 
 Paged Web (Vivliostyle) https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/cs4rl/guide/main/uhtml/index.html&bookMode=true
 
-Ebook https://github.com/cs4rl/guide/blob/main/book.epub
+Ebook https://github.com/cs4rl/guide/blob/main/book.epub?raw=true
 
 Amazon DE https://www.amazon.de/Citizen-Science-Skilling-Library-Researchers/dp/8794233594/
 
