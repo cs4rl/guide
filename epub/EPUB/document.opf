@@ -7,7 +7,7 @@
       Section Editor Jitka Stilund Hansen
     </dc:creator>
     <dc:language>en-GB</dc:language>
-    <meta property="dcterms:modified">2021-11-24T15:54:50Z</meta>
+    <meta property="dcterms:modified">2021-11-24T19:10:40Z</meta>
     <dc:date>2021-11-24</dc:date>
     <dc:rights>© 2021 the authors. Licensed Creative Commons: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), unless otherwise stated.</dc:rights>
     <dc:publisher>LIBER Citizen Science Working Group</dc:publisher>
@@ -42,6 +42,21 @@
     <item id="img7" href="images/5cbc2a9d-ead2-498b-a7d4-eb9d09d741c0.jpg" media-type="image/jpeg" />
     <item id="img8" href="images/6907d198-4aa6-424a-8a75-48ed7e3f79ca.jpg" media-type="image/jpeg" />
     <item id="img9" href="images/3e8186ae-a9a9-49eb-b874-44dc70d48cd0.jpg" media-type="image/jpeg" />
+    <item id="img10" href="images/5c76e24b-a61e-4b6d-91ae-154f40d35c14.jpg" media-type="image/jpeg" />
+    <item id="img11" href="images/a2a85b3c-79c9-4830-a128-e903aec74974.jpg" media-type="image/jpeg" />
+    <item id="img12" href="images/e7a9482f-ba88-4c72-b78f-c8450e37b6e6.jpg" media-type="image/jpeg" />
+    <item id="img13" href="images/bee3d1ca-e72a-474d-9fbe-932c3d662a6e.jpg" media-type="image/jpeg" />
+    <item id="img14" href="images/8e3939a1-1180-4f54-a448-5b410d64754f.png" media-type="image/png" />
+    <item id="img15" href="images/c7ec2ae3-9312-4611-9714-1b9e2aeb78db.png" media-type="image/png" />
+    <item id="img16" href="images/90c98ae5-18ba-4077-9309-980f1c30cbb6.jpg" media-type="image/jpeg" />
+    <item id="img17" href="images/624a7199-2b83-4155-855e-6bc26c1e31d7.jpg" media-type="image/jpeg" />
+    <item id="img18" href="images/a2fdcd35-f06d-40bb-afdc-57b08d5c925f.jpg" media-type="image/jpeg" />
+    <item id="img19" href="images/4ce609ec-309d-4cf6-9cce-70e388c6b6a7.jpg" media-type="image/jpeg" />
+    <item id="img20" href="images/9d5a7ce3-14a8-4438-bfcd-5ac0013986f6.jpg" media-type="image/jpeg" />
+    <item id="img21" href="images/c8d018f6-9638-463a-ab07-bef6e49d5618.jpg" media-type="image/jpeg" />
+    <item id="img22" href="images/a0d83853-aafa-4a6b-9a72-bf7a78a03d1f.jpg" media-type="image/jpeg" />
+    <item id="img23" href="images/c66082d0-f09c-4b53-b02b-849b974e49f5.jpg" media-type="image/jpeg" />
+    <item id="img24" href="images/a9713a4c-8843-41dd-b2d7-361e12e54590.jpg" media-type="image/jpeg" />
     <item id="font0" href="css/media/Lato-Regular.ttf" media-type="font/sfnt" />
     <item id="font1" href="css/media/Lato-Italic.ttf" media-type="font/sfnt" />
     <item id="font2" href="css/media/Lato-Bold.ttf" media-type="font/sfnt" />

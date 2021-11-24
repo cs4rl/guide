@@ -24,6 +24,10 @@
     <navPoint id="t_2_0-2">
       <navLabel><text>Foreword</text></navLabel>
       <content src="document-2.xhtml#_2_0" />
+      <navPoint id="tH9937299-2">
+        <navLabel><text>References</text></navLabel>
+        <content src="document-2.xhtml#H9937299" />
+      </navPoint>
     </navPoint>
     <navPoint id="t_3_0-3">
       <navLabel><text>Introduction</text></navLabel>
@@ -163,10 +167,54 @@
       <navPoint id="t_8_0-8">
         <navLabel><text>Use of Data Policies in Citizen Science Projects: A Step-by-step Guide</text></navLabel>
         <content src="document-8.xhtml#_8_0" />
+        <navPoint id="tH746780-8">
+          <navLabel><text>Step 1</text></navLabel>
+          <content src="document-8.xhtml#H746780" />
+        </navPoint>
+        <navPoint id="tH5324039-8">
+          <navLabel><text>Step 2</text></navLabel>
+          <content src="document-8.xhtml#H5324039" />
+        </navPoint>
+        <navPoint id="tH5899064-8">
+          <navLabel><text>Step 3</text></navLabel>
+          <content src="document-8.xhtml#H5899064" />
+        </navPoint>
+        <navPoint id="tH8565517-8">
+          <navLabel><text>Step 4</text></navLabel>
+          <content src="document-8.xhtml#H8565517" />
+        </navPoint>
+        <navPoint id="tH5631653-8">
+          <navLabel><text>Step 5</text></navLabel>
+          <content src="document-8.xhtml#H5631653" />
+        </navPoint>
+        <navPoint id="tH1667747-8">
+          <navLabel><text>Step 6</text></navLabel>
+          <content src="document-8.xhtml#H1667747" />
+        </navPoint>
+        <navPoint id="tH3451489-8">
+          <navLabel><text>Step 7</text></navLabel>
+          <content src="document-8.xhtml#H3451489" />
+        </navPoint>
+        <navPoint id="tH5602046-8">
+          <navLabel><text>Summary</text></navLabel>
+          <content src="document-8.xhtml#H5602046" />
+        </navPoint>
+        <navPoint id="tH9581016-8">
+          <navLabel><text>Note</text></navLabel>
+          <content src="document-8.xhtml#H9581016" />
+        </navPoint>
       </navPoint>
       <navPoint id="t_9_0-9">
         <navLabel><text>Citizen Science Data and Standards</text></navLabel>
         <content src="document-9.xhtml#_9_0" />
+        <navPoint id="tH2618695-9">
+          <navLabel><text>Standards support interoperability among systems</text></navLabel>
+          <content src="document-9.xhtml#H2618695" />
+        </navPoint>
+        <navPoint id="tH6624360-9">
+          <navLabel><text>References</text></navLabel>
+          <content src="document-9.xhtml#H6624360" />
+        </navPoint>
         <navPoint id="tH8247629-9">
           <navLabel><text>Project Highlight: Defining New Data Standards with Citizen Science</text></navLabel>
           <content src="document-9.xhtml#H8247629" />
@@ -178,19 +226,43 @@
         <navPoint id="tH1462684-10">
           <navLabel><text>Project Highlight: Lizard Conservation with the Balanggarra Rangers in Australia</text></navLabel>
           <content src="document-10.xhtml#H1462684" />
+          <navPoint id="tH389632-10">
+            <navLabel><text>References</text></navLabel>
+            <content src="document-10.xhtml#H389632" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH1165828-10">
+          <navLabel><text>Group Co-authorship for Citizen Scientists: Recommendations for Using, Listing, and Citing</text></navLabel>
+          <content src="document-10.xhtml#H1165828" />
         </navPoint>
       </navPoint>
       <navPoint id="t_11_0-11">
         <navLabel><text>Planning and Securing Resources — The Data Management Plan</text></navLabel>
         <content src="document-11.xhtml#_11_0" />
+        <navPoint id="tH1297302-11">
+          <navLabel><text>References</text></navLabel>
+          <content src="document-11.xhtml#H1297302" />
+        </navPoint>
       </navPoint>
       <navPoint id="t_12_0-12">
         <navLabel><text>Project Highlight: FAIR Data in a Citizen Science Project</text></navLabel>
         <content src="document-12.xhtml#_12_0" />
+        <navPoint id="tH1267021-12">
+          <navLabel><text>References</text></navLabel>
+          <content src="document-12.xhtml#H1267021" />
+        </navPoint>
       </navPoint>
       <navPoint id="t_13_0-13">
         <navLabel><text>Project Highlight: The INOS Project</text></navLabel>
         <content src="document-13.xhtml#_13_0" />
+        <navPoint id="tH1833659-13">
+          <navLabel><text>Upskilling through open knowledge activities</text></navLabel>
+          <content src="document-13.xhtml#H1833659" />
+        </navPoint>
+        <navPoint id="tH3740432-13">
+          <navLabel><text>Towards a Roadmap on Capacity Building on Open Science and Citizen Science for Research Libraries — Co-creating a vision</text></navLabel>
+          <content src="document-13.xhtml#H3740432" />
+        </navPoint>
       </navPoint>
     </navPoint>
     <navPoint id="t0-14">
@@ -199,6 +271,30 @@
       <navPoint id="t_14_0-14">
         <navLabel><text>Increasing Scientific Literacy with Citizen Science</text></navLabel>
         <content src="document-14.xhtml#_14_0" />
+        <navPoint id="tH4045289-14">
+          <navLabel><text>Scientific literacy and citizen science</text></navLabel>
+          <content src="document-14.xhtml#H4045289" />
+        </navPoint>
+        <navPoint id="tH9445570-14">
+          <navLabel><text>Research libraries and scientific literacy</text></navLabel>
+          <content src="document-14.xhtml#H9445570" />
+        </navPoint>
+        <navPoint id="tH2618331-14">
+          <navLabel><text>References</text></navLabel>
+          <content src="document-14.xhtml#H2618331" />
+        </navPoint>
+        <navPoint id="tH4775437-14">
+          <navLabel><text>Definition of Scientific Literacy</text></navLabel>
+          <content src="document-14.xhtml#H4775437" />
+        </navPoint>
+        <navPoint id="tH9388310-14">
+          <navLabel><text>Examples on measuring scientific literacy</text></navLabel>
+          <content src="document-14.xhtml#H9388310" />
+          <navPoint id="tH4828493-14">
+            <navLabel><text>Note</text></navLabel>
+            <content src="document-14.xhtml#H4828493" />
+          </navPoint>
+        </navPoint>
       </navPoint>
       <navPoint id="t2">
         <navLabel><text>Copyright</text></navLabel>

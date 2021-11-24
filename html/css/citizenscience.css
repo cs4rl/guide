@@ -3,56 +3,56 @@
     font-family :"Crimson Text", serif;
     font-weight : normal;
     font-style: normal;
-    src : url(../fonts/media/media/CrimsonText-Regular.ttf);
+    src : url(../fonts/media/media/media/media/CrimsonText-Regular.ttf);
 }
 -@font-face {
     font-family :"Crimson Text", serif;
     font-weight : normal;
     font-style: italic;
-    src : url(../fonts/media/media/CrimsonText-Italic.ttf);
+    src : url(../fonts/media/media/media/media/CrimsonText-Italic.ttf);
 }
 -@font-face {
     font-family :"Crimson Text", serif;
     font-weight : bold;
     font-style: normal;
-    src : url(../fonts/media/media/CrimsonText-Bold.ttf);
+    src : url(../fonts/media/media/media/media/CrimsonText-Bold.ttf);
 }
 -@font-face {
     font-family :"Crimson Text", serif;
     font-weight : 600;
     font-style: normal;
-    src : url(../fonts/media/media/CrimsonText-Semibold.ttf);
+    src : url(../fonts/media/media/media/media/CrimsonText-Semibold.ttf);
 }
 @font-face {
     font-family: "Lato", helvetica neue, arial, sans-serif;
     font-weight : normal;
     font-style: normal;
-    src : url(../fonts/media/media/Lato-Regular.ttf);
+    src : url(../fonts/media/media/media/media/Lato-Regular.ttf);
 }
 @font-face {
     font-family: "Lato", helvetica neue, arial, sans-serif;
     font-weight : normal;
     font-style: italic;
-    src : url(../fonts/media/media/Lato-Italic.ttf);
+    src : url(../fonts/media/media/media/media/Lato-Italic.ttf);
 }
 -@font-face {
     font-family : "Lato", helvetica neue, arial, sans-serif;
     font-weight : 500;
     font-style: normal;
-    src : url(../fonts/media/media/Lato-Regular.ttf);
+    src : url(../fonts/media/media/media/media/Lato-Regular.ttf);
 }
 
 -@font-face {
     font-family : "Lato", helvetica neue, arial, sans-serif;
     font-style: bold;
     font-style: normal;
-    src : url(../fonts/media/media/Lato-Bold.ttf);
+    src : url(../fonts/media/media/media/media/Lato-Bold.ttf);
 }
 -@font-face {
     font-family : "Lato", helvetica neue, arial, sans-serif;
     font-style: bold;
     font-style: italic;
-    src : url(../fonts/media/media/Lato-BoldItalic.ttf);
+    src : url(../fonts/media/media/media/media/Lato-BoldItalic.ttf);
 }
 
 
@@ -64,8 +64,8 @@
 
 @page :first {
   size: 159mm 229mm;
-  background: url(https://procip.github.io/publichealthstrategie/html/css/media/cover.jpg) ;
-background-size: 159mm 229mm;
+  background: url(https://raw.githubusercontent.com/cs4rl/guide/3bddf183afd7f9e1871ffb57443243d9df17809e/covers/skilling/9788794233590-front-cover-cs4rl-skilling-med.png);
+  background-size: 159mm 229mm;
   display: flex;
   margin-top: 300mm;
   color: #D20041;
@@ -75,16 +75,7 @@ background-size: 159mm 229mm;
 	@bottom-right { content: normal; }
 	@top-left { content: normal; }
   @top-right { content: normal;}
-  @top-center {
-    content: env(doc-title);
-    font-family: "Lato", helvetica neue, arial, sans-serif;
-    font-weight: 400;
-    font-size: 24pt;
-    text-align: center;
-    letter-spacing: 0.2pt;
-    word-spacing: 1px;
-   margin-top: -240mm;
-  }
+  @top-center { content: normal;}
 }
 
 @page :left {
@@ -146,6 +137,31 @@ background-size: 159mm 229mm;
   }
 }
 
+/*@page frontmatter {
+  @bottom-left { content: " "; }
+	@bottom-right { content: " "; }
+	@top-center { content: " "; }
+  @top-left { content: " "; }
+  @top-right { content: " "; }
+}
+
+.frontmatter  {
+    page: frontmatter;
+}
+
+@page tocpage {
+  @bottom-left { content: " "; }
+	@bottom-right { content: " "; }
+	@top-center { content: " "; }
+  @top-left { content: " "; }
+  @top-right { content: " "; }
+}
+
+.tocpage {
+    page: tocpage;
+}*/
+
+
 @page :blank {
 	@bottom-left { content: normal; }
 	@bottom-right { content: normal; }
@@ -154,55 +170,20 @@ background-size: 159mm 229mm;
   @top-right { content: normal; }
 }
 
-#cover {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden
+.copyrightpage {
+    display: none;
 }
 
-#cover img {
-    flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%
+.titlepage {
+    margin-top: 100px;
+}
+.titlepage h1, .titlepage h2, .titlepage h3 {
+    text-align: left;
+    font-family: "Crimson Text", serif;
+    color: rgb(0,81,123);
+    margin-bottom: 30px;
 }
 
-.coverpage {
-  position: absolute;
-  /*width: 210mm;
-  height: 297mm;*/
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-image: url("../images/cover.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  top: -20mm;
-  left: -20mm;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  z-index: 10;
-}
-.backpage {
-  position: absolute;
-  /*width: 210mm;
-  height: 297mm;*/
-  width: 130%;
-  height: 120%;
-  /*background-color: black;*/
-  /*background-image: url("../images/backpage.png");*/
-  background-repeat: no-repeat;
-  background-size: cover;
-  top: -20mm;
-  left: -20mm;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  z-index: 10;
-}
 
 html,
 body,
@@ -300,8 +281,8 @@ html {
 
 nav {
   margin: 2em 0;
-  break-before: always;
-  page-break-before: always;
+ /* break-before: always;
+  page-break-before: always;*/
 }
 
 nav ol {
@@ -329,8 +310,13 @@ nav li ol {
   margin-top: 0.5em;
 }
 
+nav li {
+  font-weight: bold;
+}
+
 nav li ol li {
   margin-left: 1.2em;
+  font-weight: normal;
 }
 
 nav li a::after {
@@ -369,23 +355,30 @@ nav li a::after {
  order: 2;
 }*/
 
+div.article-part.article-title {
+  page-break-before: always!important;
+  margin-bottom: 40px;
+}
 .article-title {
   font-family: "Crimson Text", serif;
   font-size: 24pt;
-  color: rgb(0,81,123) ;
+  color: rgb(0,81,123);
   text-transform: uppercase;
   font-weight: bold;
-  display: inline;
+  text-decoration-line: underline;
+  /*text-underline-position: under;*/
+  text-decoration-color: #eeaf1d;
+  text-decoration-thickness: 20px;
+  line-height: 1.3em;
+  width: 70%;
+  /*display: inline;
   border-bottom: 3px solid #eeaf1d;
-  margin-bottom: 2em;
-  margin-top: 2em;
+  margin-top: 0;*/
   page-break-inside: avoid;
   page-break-after: avoid;
   text-align: left;
   hyphens: manual;
   white-space: pre-line;
-  letter-spacing: 0pt;
-  word-spacing: 1px;
 }
 
 .article-title strong { font-weight: bold;}
@@ -398,6 +391,20 @@ nav li a::after {
   margin-bottom: 13pt;
   letter-spacing: 1pt;
 }
+
+.tocpage:before {
+  content:"Contents";
+  font-family: "Crimson Text", serif;
+  font-size: 24pt;
+  color: rgb(0,81,123);
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration-line: underline;
+  text-decoration-color: #eeaf1d;
+  text-decoration-thickness: 20px;
+  line-height: 1.3em;
+}
+
 /*Literaturverzeichnis
 .article-bibliography-header {
   font-family :"noto serif", serif;
@@ -418,18 +425,16 @@ nav li a::after {
 /*Literaturverzeichnis*/
 .article-bibliography-header {
   font-family: "Lato", helvetica neue, arial, sans-serif;
-  font-size: 24pt;
-  color: #D20041 ;
-  margin-bottom: 0.5em;
-  margin-top: 2em;
+  margin-top: 1.5em;
+  color: rgb(101,154,210);
+  font-weight: 400;
+  font-size: 15pt; /* 1.395rem */
+  font-family: "Lato", helvetica neue, arial, sans-serif;
+  text-transform: none;
+  margin-top: 20pt;
+  margin-bottom: 0pt;
   page-break-inside: avoid;
   page-break-after: avoid;
-  text-align: center;
-  text-transform: none;
-  hyphens: manual;
-  white-space: pre-line;
-  letter-spacing: 0pt;
-  word-spacing: 1px;
 }
 .csl-entry {
   font-family: "Lato", sans-serif;
@@ -489,10 +494,10 @@ p {
   font-size:  9.5pt; /* 0.8837rem */
   line-height: 15pt; /* 1.3954rem */
   margin-bottom: 0pt;
-  letter-spacing: 0.2pt;
-  word-spacing: 0.2pt;
-  orphans: 2;
-  widows: 2;
+  /*letter-spacing: 0.2pt;
+  word-spacing: 0.2pt;*/
+  /*orphans: 2;
+  widows: 2;*/
 }
 
 p + p {
@@ -508,39 +513,6 @@ li p {
 
 p:first-of-type {
   text-indent: 0;
-}
-
-.Kolophon p {
-  font-family: "Lato", helvetica neue, arial, sans-serif;
-  font-size:8pt;
-}
-
-.Kolophon p + p {
-  margin-top:0;
-}
-
-p.stb { text-indent: 0; margin-top: 0.83em }
-p.mtb { text-indent: 0; margin-top: 2.17em }
-p.ltb { text-indent: 0; margin-top: 3.08em }
-p.ador { text-indent: 0; margin-left: 1.6pc; margin-top: 9pt }
-p.adorno { text-indent: 12px; margin-left: 1.6pc; margin-bottom: 9pt}
-p.start { text-indent: 0em; margin-top: 0em }
-p.divide { text-align: center }
-
-
-p.author , .author {
-  color: black;
-  font-size: 14pt;
-  font-weight: normal;
-  text-align: center;
-  text-transform: none;
-  line-height: 20pt;
-  margin-bottom: 30pt;
-}
-
-p.copyright {
-  font-size: 9.75pt;
-  text-align: left;
 }
 
 p strong,
@@ -569,18 +541,11 @@ em,
   font-weight: 400;
 }
 
-pre {
-  max-width: 80.1266666667mm;
-}
 
 a, .csl-bib-body a {
   color: rgb(101,154,210);
   text-decoration: none !important;
   border-bottom: 1px solid rgb(101,154,210);
-}
-
-a:hover {
-  border-bottom: 1px solid rgb(101,100,98);
 }
 
 strong em {
@@ -605,11 +570,6 @@ sup {
   position: relative;
   top: -3px;
   vertical-align: baseline;
-}
-
-.references p {
-  line-height: 10.8pt;
-  font-size: 9pt;
 }
 
 blockquote {
@@ -688,14 +648,13 @@ h1.part { display: none; }
 h1 strong { font-weight: 400;}
 
 h2 {
-  font-size: 15pt; /* 1.395rem */
+  font-size: 15pt;
   font-family: "Lato", helvetica neue, arial, sans-serif;
   text-transform: none;
   font-weight: 400;
-  /*margin: 1.5em 0 1.2em 0;*/
   margin-top: 20pt;
   margin-bottom: 9pt;
-  page-break-inside: avoid;
+page-break-inside: avoid;
   page-break-after: avoid;
 }
 
@@ -727,9 +686,9 @@ h5 {
 }
 hr {
     border: 0;
-    height: 3px;
+    height: 2px;
     background: rgb(238,177,29);
-    /*background-image: linear-gradient(to right, #ccc, #333, #ccc);*/
+    margin: 1.2em 0;
     }
 
 hr.br { border:0; height: 0px; }
@@ -877,12 +836,12 @@ ul {
   hyphens: none;
 }
 
-#page-navigation ol {
+/*#page-navigation ol {
     margin: 0;
     padding: 0;
     list-style-type: decimal;
     float: left;
-}
+}*/
 
  .article-body ol {
   display: block;
@@ -1009,8 +968,8 @@ tr:first-of-type th {
 }
 
 tr:first-of-type td {
-  font-style: italic;
-  background-color: rgb(0, 81, 123);
+  /*font-style: italic;*/
+  background-color: rgb(101,154,210);
   /*border-bottom: 2px solid rgb(101,154,210)*/
 
 }
@@ -1027,7 +986,7 @@ th {
   border-left: 0;
   border-right: 0;
   padding: 1em;
-  font-style: italic;
+  /*font-style: italic;*/
 }
 
 tr:first-of-type {
@@ -1111,7 +1070,7 @@ h2 + p /* h3+p*/ {
 
 /* styling pieces */
 
-.pagenumber {
+/*.pagenumber {
   content: counter(page);
   height: 13pt;
   position: absolute;
@@ -1120,7 +1079,7 @@ h2 + p /* h3+p*/ {
   font-family: "Lato", helvetica neue, arial, sans-serif;
   font-size: 9pt;
   font-style: italic;
-}
+}*/
 
 /* running headers locations */
 
