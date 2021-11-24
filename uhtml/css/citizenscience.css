@@ -683,6 +683,8 @@ h1 {
   font-weight: 400
 }
 
+h1.part { display: none; }
+
 h1 strong { font-weight: 400;}
 
 h2 {
@@ -760,7 +762,7 @@ h1:before {
   line-height: 10.75pt;
   word-wrap: break-word;
   font-family: "Lato", helvetica neue, arial, sans-serif;
-  color: green;
+  color: rgb(0, 81, 123);
 }
 
 .footnotes ol li p a {
@@ -768,7 +770,7 @@ h1:before {
 }
 
 li[id*="fn"] {
-  color: black;
+  color: rgb(0, 81, 123);
   text-indent: 0;
   font-size: 9pt;
   margin-left: 1.3pc;
@@ -813,7 +815,7 @@ figure figcaption {
   font-family: "Lato", helvetica neue, arial, sans-serif;
   margin-top: 5px;
   font-style: normal;
-  color: black;
+  color: rgb(0, 81, 123);
   text-indent: 0;
   text-align: center;
   font-size: 8pt;
@@ -1008,7 +1010,7 @@ tr:first-of-type th {
 
 tr:first-of-type td {
   font-style: italic;
-  background-color: rgb(241,248,250);
+  background-color: rgb(0, 81, 123);
   /*border-bottom: 2px solid rgb(101,154,210)*/
 
 }
@@ -1128,7 +1130,7 @@ ol.upper-latin {
 
 @media print {
   a {
-    color: rgb(101,154,210);
+color: rgb(0, 81, 123);
     text-decoration: none !important;
     border-bottom: 1px solid rgb(101,154,210);
   }
