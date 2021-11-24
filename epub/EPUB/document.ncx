@@ -107,13 +107,45 @@
       <navPoint id="t_5_0-5">
         <navLabel><text>Communication</text></navLabel>
         <content src="document-5.xhtml#_5_0" />
-        <navPoint id="tH353590-5">
-          <navLabel><text>Communication Plan (Citizens)</text></navLabel>
-          <content src="document-5.xhtml#H353590" />
+        <navPoint id="tH1241008-5">
+          <navLabel><text>Communication to and with citizens</text></navLabel>
+          <content src="document-5.xhtml#H1241008" />
+          <navPoint id="tH353590-5">
+            <navLabel><text>Communication Plan (Citizens)</text></navLabel>
+            <content src="document-5.xhtml#H353590" />
+            <navPoint id="tH605099-5">
+              <navLabel><text>Templates for the Communication plan</text></navLabel>
+              <content src="document-5.xhtml#H605099" />
+              <navPoint id="tH9304846-5">
+                <navLabel><text>Target groups</text></navLabel>
+                <content src="document-5.xhtml#H9304846" />
+              </navPoint>
+              <navPoint id="tH7982398-5">
+                <navLabel><text>Communications channels and theme</text></navLabel>
+                <content src="document-5.xhtml#H7982398" />
+              </navPoint>
+              <navPoint id="tH4851119-5">
+                <navLabel><text>Communication log</text></navLabel>
+                <content src="document-5.xhtml#H4851119" />
+              </navPoint>
+            </navPoint>
+          </navPoint>
         </navPoint>
         <navPoint id="tH1380644-5">
           <navLabel><text>Project Highlight: Find a Lake</text></navLabel>
           <content src="document-5.xhtml#H1380644" />
+          <navPoint id="tH3198415-5">
+            <navLabel><text>A Communication plan</text></navLabel>
+            <content src="document-5.xhtml#H3198415" />
+            <navPoint id="tH6246862-5">
+              <navLabel><text>Target groups for “Find a Lake”</text></navLabel>
+              <content src="document-5.xhtml#H6246862" />
+            </navPoint>
+            <navPoint id="tH2268381-5">
+              <navLabel><text>Communication channels and themes for “Find a Lake”</text></navLabel>
+              <content src="document-5.xhtml#H2268381" />
+            </navPoint>
+          </navPoint>
         </navPoint>
       </navPoint>
     </navPoint>
@@ -121,48 +153,52 @@
       <navLabel><text>Management of Citizen Science Data</text></navLabel>
       <content src="document-6.xhtml" />
       <navPoint id="t_6_0-6">
-        <navLabel><text>Research Data Management: Quick Start Guide (eLearning course)</text></navLabel>
+        <navLabel><text>Management of Citizen Science Data</text></navLabel>
         <content src="document-6.xhtml#_6_0" />
       </navPoint>
       <navPoint id="t_7_0-7">
-        <navLabel><text>Use of Data Policies in Citizen Science Projects: A Step-by-step Guide</text></navLabel>
+        <navLabel><text>Research Data Management: Quick Start Guide (eLearning course)</text></navLabel>
         <content src="document-7.xhtml#_7_0" />
       </navPoint>
       <navPoint id="t_8_0-8">
-        <navLabel><text>Citizen Science Data and Standards</text></navLabel>
+        <navLabel><text>Use of Data Policies in Citizen Science Projects: A Step-by-step Guide</text></navLabel>
         <content src="document-8.xhtml#_8_0" />
-        <navPoint id="tH8247629-8">
-          <navLabel><text>Project Highlight: Defining New Data Standards with Citizen Science</text></navLabel>
-          <content src="document-8.xhtml#H8247629" />
-        </navPoint>
       </navPoint>
       <navPoint id="t_9_0-9">
-        <navLabel><text>Acknowledgment of Citizen Scientists on Research Outputs</text></navLabel>
+        <navLabel><text>Citizen Science Data and Standards</text></navLabel>
         <content src="document-9.xhtml#_9_0" />
-        <navPoint id="tH1462684-9">
-          <navLabel><text>Project Highlight: Lizard Conservation with the Balanggarra Rangers in Australia</text></navLabel>
-          <content src="document-9.xhtml#H1462684" />
+        <navPoint id="tH8247629-9">
+          <navLabel><text>Project Highlight: Defining New Data Standards with Citizen Science</text></navLabel>
+          <content src="document-9.xhtml#H8247629" />
         </navPoint>
       </navPoint>
       <navPoint id="t_10_0-10">
-        <navLabel><text>Planning and Securing Resources — The Data Management Plan</text></navLabel>
+        <navLabel><text>Acknowledgment of Citizen Scientists on Research Outputs</text></navLabel>
         <content src="document-10.xhtml#_10_0" />
+        <navPoint id="tH1462684-10">
+          <navLabel><text>Project Highlight: Lizard Conservation with the Balanggarra Rangers in Australia</text></navLabel>
+          <content src="document-10.xhtml#H1462684" />
+        </navPoint>
       </navPoint>
       <navPoint id="t_11_0-11">
-        <navLabel><text>Project Highlight: FAIR Data in a Citizen Science Project</text></navLabel>
+        <navLabel><text>Planning and Securing Resources — The Data Management Plan</text></navLabel>
         <content src="document-11.xhtml#_11_0" />
       </navPoint>
       <navPoint id="t_12_0-12">
-        <navLabel><text>Project Highlight: The INOS Project</text></navLabel>
+        <navLabel><text>Project Highlight: FAIR Data in a Citizen Science Project</text></navLabel>
         <content src="document-12.xhtml#_12_0" />
       </navPoint>
-    </navPoint>
-    <navPoint id="t0-13">
-      <navLabel><text>Scientific Literacy</text></navLabel>
-      <content src="document-13.xhtml" />
       <navPoint id="t_13_0-13">
-        <navLabel><text>Increasing Scientific Literacy with Citizen Science</text></navLabel>
+        <navLabel><text>Project Highlight: The INOS Project</text></navLabel>
         <content src="document-13.xhtml#_13_0" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t0-14">
+      <navLabel><text>Scientific Literacy</text></navLabel>
+      <content src="document-14.xhtml" />
+      <navPoint id="t_14_0-14">
+        <navLabel><text>Increasing Scientific Literacy with Citizen Science</text></navLabel>
+        <content src="document-14.xhtml#_14_0" />
       </navPoint>
       <navPoint id="t2">
         <navLabel><text>Copyright</text></navLabel>
