@@ -2,7 +2,7 @@
 
 ## Citizen Science Skilling for Library Staff, Researchers, and the Public
 
-![A picture containing shape Description automatically generated](media/93dcd6d1769ae63125aa42df55131efb.png)
+![cover cs4rl skilling](media/93dcd6d1769ae63125aa42df55131efb.png)
 
 \#CS4RL
 
@@ -23,7 +23,7 @@ Read online, DOI: <https://doi.org/10.25815/hf0m-2a57>
 
 ISBN Print: 978-87-94233-59-0
 
->   ISBN eBook: 978-87-94233-60-6
+ISBN eBook: 978-87-94233-60-6
 
 A practical guide designed to assist those organising and participating in a
 citizen science project to get the most out of the experience. The guide will
