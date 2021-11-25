@@ -6,7 +6,7 @@ Part of the four part book series: Citizen Science for Research Libraries — A 
 
 Section Editor Jitka Stilund Hansen
 
-/#CS4RL
+\#CS4RL
 
 An open access and peer-reviewed book. © 2021 the authors. Licensed Creative Commons: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), unless otherwise stated.
 
