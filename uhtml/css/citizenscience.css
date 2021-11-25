@@ -3,56 +3,56 @@
     font-family :"Crimson Text", serif;
     font-weight : normal;
     font-style: normal;
-    src : url(../fonts/media/media/media/media/CrimsonText-Regular.ttf);
+    src : url(../fonts/media/media/media/media/media/CrimsonText-Regular.ttf);
 }
 -@font-face {
     font-family :"Crimson Text", serif;
     font-weight : normal;
     font-style: italic;
-    src : url(../fonts/media/media/media/media/CrimsonText-Italic.ttf);
+    src : url(../fonts/media/media/media/media/media/CrimsonText-Italic.ttf);
 }
 -@font-face {
     font-family :"Crimson Text", serif;
     font-weight : bold;
     font-style: normal;
-    src : url(../fonts/media/media/media/media/CrimsonText-Bold.ttf);
+    src : url(../fonts/media/media/media/media/media/CrimsonText-Bold.ttf);
 }
 -@font-face {
     font-family :"Crimson Text", serif;
     font-weight : 600;
     font-style: normal;
-    src : url(../fonts/media/media/media/media/CrimsonText-Semibold.ttf);
+    src : url(../fonts/media/media/media/media/media/CrimsonText-Semibold.ttf);
 }
 @font-face {
     font-family: "Lato", helvetica neue, arial, sans-serif;
     font-weight : normal;
     font-style: normal;
-    src : url(../fonts/media/media/media/media/Lato-Regular.ttf);
+    src : url(../fonts/media/media/media/media/media/Lato-Regular.ttf);
 }
 @font-face {
     font-family: "Lato", helvetica neue, arial, sans-serif;
     font-weight : normal;
     font-style: italic;
-    src : url(../fonts/media/media/media/media/Lato-Italic.ttf);
+    src : url(../fonts/media/media/media/media/media/Lato-Italic.ttf);
 }
 -@font-face {
     font-family : "Lato", helvetica neue, arial, sans-serif;
     font-weight : 500;
     font-style: normal;
-    src : url(../fonts/media/media/media/media/Lato-Regular.ttf);
+    src : url(../fonts/media/media/media/media/media/Lato-Regular.ttf);
 }
 
 -@font-face {
     font-family : "Lato", helvetica neue, arial, sans-serif;
     font-style: bold;
     font-style: normal;
-    src : url(../fonts/media/media/media/media/Lato-Bold.ttf);
+    src : url(../fonts/media/media/media/media/media/Lato-Bold.ttf);
 }
 -@font-face {
     font-family : "Lato", helvetica neue, arial, sans-serif;
     font-style: bold;
     font-style: italic;
-    src : url(../fonts/media/media/media/media/Lato-BoldItalic.ttf);
+    src : url(../fonts/media/media/media/media/media/Lato-BoldItalic.ttf);
 }
 
 
@@ -136,31 +136,6 @@
     word-spacing: 1px;
   }
 }
-
-/*@page frontmatter {
-  @bottom-left { content: " "; }
-	@bottom-right { content: " "; }
-	@top-center { content: " "; }
-  @top-left { content: " "; }
-  @top-right { content: " "; }
-}
-
-.frontmatter  {
-    page: frontmatter;
-}
-
-@page tocpage {
-  @bottom-left { content: " "; }
-	@bottom-right { content: " "; }
-	@top-center { content: " "; }
-  @top-left { content: " "; }
-  @top-right { content: " "; }
-}
-
-.tocpage {
-    page: tocpage;
-}*/
-
 
 @page :blank {
 	@bottom-left { content: normal; }
@@ -327,34 +302,6 @@ nav li a::after {
  order: 2;
 }
 
-/*nav {
-  break-before: always;
-}
-nav li a {
-  display: inline-flex;
-  width: 100%;
-  text-decoration: none;
-  color: currentColor;
-  align-items: baseline;
-  border: none;
-  font-size: 9pt;
-}
-nav li a::before {
-  margin-left: 0.5em;
-  margin-right: 0.5em;
-  border-bottom: 1px dotted;
-  content: "";
-  order: 1;
- flex: auto;
-}
-nav li a::after {
- text-align: right;
- content: target-counter(attr(href), page);
- align-self: flex-end;
- flex: none;
- order: 2;
-}*/
-
 div.article-part.article-title {
   page-break-before: always!important;
   margin-bottom: 40px;
@@ -490,12 +437,13 @@ div.article-part.article-title {
 
 
 p {
-  font-family: "Lato", helvetica neue, arial, sans-serif;
+  font-family: "Lato", arial, sans-serif;
+  font-weight: normal;
   font-size:  9.5pt; /* 0.8837rem */
   line-height: 15pt; /* 1.3954rem */
   margin-bottom: 0pt;
-  /*letter-spacing: 0.2pt;
-  word-spacing: 0.2pt;*/
+  letter-spacing: 0.2pt;
+  word-spacing: 0.2pt;
   /*orphans: 2;
   widows: 2;*/
 }
@@ -601,7 +549,7 @@ blockquote {
 
 blockquote p {
   font-family: inherit;
-  text-align: center;
+  text-align: left;
   font-style: normal;
 }
 
