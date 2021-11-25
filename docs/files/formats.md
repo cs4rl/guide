@@ -4,18 +4,17 @@
 
 Print copies can be ordered and shipped from most online book retailers or via book stores.
 
-Page count: 122; 229 mm hight x 152 mm width. Perfect Bound with B/W interior and colour Gloss Laminate cover.
+Page count: 36; 244 mm hight x 170 mm width. Perfect Bound with colour interior and colour Gloss Laminate cover.
 
 Price is dependent on outlet rates and discounts.
 
- - [Amazon DE](https://www.amazon.de/dp/) and available on other EU and global Amazons
- - [Amazon FR](https://www.amazon.fr/dp/)
- - [Amazon US](https://www.amazon.com/dp/)
+ - [Amazon DE](https://www.amazon.de/dp/8794233594/) and available on other EU and global Amazons
+ - [Amazon US](https://www.amazon.com/dp/8794233594/)
 
 Direct bulk orders can be made by emailing.
 
-Prices available on request - bulk discounts available, post and packaging. Email: contact@procip.co
+Prices available on request - bulk discounts available, post and packaging. Email: simon.worthington@tib.eu
 
-ISBN 978-1-906496-97-5  
+ISBN Print 978-87-94233-59-0   
 
 Printed by Lightningsource print-on-demand and global channels.
