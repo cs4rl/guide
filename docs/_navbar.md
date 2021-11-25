@@ -1,7 +1,8 @@
-<!-- * [SORMAS home](https://www.sormas-oegd.de/)  -->
+* [LIBER Citizen Science Working Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/)
 
-* [PDF](https://procip.github.io/webbook-media-server/crisis/screen-pdf/crisis-management-9781906496975.pdf)  
+* [PDF](https://cs4rl.github.io/guide/pdf/9788794233590-cs4rl-skilling-v1-screen.pdf)  
 * [Webbook](https://procip.github.io/vivliostyle-viewer-latest/viewer/#src=https://procip.github.io/webbook-media-server/crisis/webbook/crisis-webbook-9781906496975.xhtml&bookMode=true)
+* [eBook](files/formats.md)
 * [Print-on-demand](files/formats.md)
 
 <!--
