@@ -4,16 +4,16 @@
     --base-font-size                                  : 16px;
     --base-font-family                                : "Open sans", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, sans-serif; /*--base-color: var(--mono-shade2);*/
     --link-color                                      : #000; /*#0A75BD*/
-    --link-color--hover                               : #EE868F;
-    --link-border-bottom--hover                       : #EE868F;
+    --link-color--hover                               : #F1B11A;
+    --link-border-bottom--hover                       : #F1B11A;
     --link-text-decoration                            : underline;
     --link-text-decoration-color                      : #000;
     --sidebar-name-color                              : #000;
-    --sidebar-background                              : #DCD0C5;
+    --sidebar-background                              : #FFE3A1;
     --sidebar-nav-link-color--active                  : #4D4D4D;
     --cover-heading-font-size-max                     : 40;
     --cover-heading-font-size-min                     : 34;
-    --blockquote-border-color                         : #EE868F;
+    --blockquote-border-color                         : #F1B11A;
     --heading-font-family                             : "IBM Plex Sans", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, sans-serif;
     --heading-h2-font-size: var(--font-size-xl);
     --heading-h3-border-style: solid;
@@ -84,11 +84,11 @@ section.content > aside.nav > .page_toc {
   font-size: 14px;
 }
 section.content > aside.nav > .page_toc ul a:hover span {
-  color: var(--text-color-tertiary, #EE868F) !important;
-  color: #EE868F !important;
+  color: var(--text-color-tertiary, #F1B11A) !important;
+  color: #F1B11A !important;
 }
 .nav .page_toc ul a:hover span {
-  color: #EE868F !important;
+  color: #F1B11A !important;
 }
 aside.nav > .page_toc .active {
   border-left: 5px solid #0B87DA;
@@ -110,7 +110,7 @@ aside.nav > .page_toc .active strong {
 
 /* top right menu*/
 nav.app-nav li a:active, nav.app-nav li a:hover {
-    color: #EE868F !important;
+    color: #F1B11A !important;
     -webkit-transition:none !important;
     -moz-transition:none !important;
     -o-transition:none !important;
