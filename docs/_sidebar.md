@@ -26,7 +26,7 @@
 
 ISBN Print: 978-87-94233-59-0<br />    
 ISBN eBook: 978-87-94233-60-6<br />
-DOI: https://doi.org/10.25815/hf0m-2a57<br />
+DOI: 10.25815/hf0m-2a57<br />
 Release: Version 1.0<br />
 CC BY 4.0 The Authors 2021
 
