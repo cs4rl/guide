@@ -39,5 +39,3 @@ and its final Vision and Policy Recommendations for Higher Education.
 Web: <https://inos-project.eu/>
 
 ![](media/9c4079443feda8dcd3166614580e12e3.jpg)
-
-![](media/9c4079443feda8dcd3166614580e12e3.jpg)
