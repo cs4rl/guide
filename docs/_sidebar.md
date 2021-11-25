@@ -1,6 +1,5 @@
 - **Navigation**
 
-  - [Definitions](files/document-2.md)
   - [Operational planning](files/document-3.md)
   - [Working in teams](files/document-4.md)
   - [Communications](files/document-5.md)
@@ -19,8 +18,8 @@
   - [Annex – Websites](files/document-17.md)
   - [Bibliography](files/document-18.md)
 
-- [**Publication info**](files/document-101.md)
-- [**Contributors**](files/document-101.md.md#Authors)
+- [**About the Book**](files/cs1000about-the-book.md)
+
 
 ---
 
