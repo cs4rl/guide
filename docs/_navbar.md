@@ -3,6 +3,8 @@
 * [Paged Web](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/cs4rl/guide/main/uhtml/index.html&bookMode=true)
 * [eBook](https://cs4rl.github.io/viewer/citizen-science-skilling-for-library-staff-researchers-and-the-public.epub)
 * [Print-on-demand](files/formats.md)
+* [GitHub](https://github.com/cs4rl/guide)
+* [Edit](https://write.handbuch.io/)
 
 <!--
 
