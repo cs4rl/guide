@@ -1,6 +1,6 @@
 # Imprint
 
-Responsible for the content of the domain https://cs4rl.github.io/guide/#/:
+Responsible for the content of the domain https://cs4rl.github.io/guide/#/
 
 LIBER Citizen Science Working Group
 
