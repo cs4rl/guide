@@ -31,13 +31,14 @@ science endeavour of the *democratization of knowledge* such as — fostering
 trust in science, in data gathering and cooperations, and being more equitable —
 with our guide offering a contribution in capacity building for such values.
 
-### References
+## References
 
-LIBER Open Science Roadmap,  
-<https://doi.org/10.5281/zenodo.1303002>
+LIBER Open Science Roadmap, <https://doi.org/10.5281/zenodo.1303002>
 
 UNESCO Recommendation on Open Science – URL:
 <https://unesdoc.unesco.org/ark:/48223/pf0000378381>
+
+---
 
 Image: Open Doodles by Pablo Stanley.
 <https://blush.design/illustration/i/NeXDqiwq2zFLGVeKIy3z>
