@@ -1,4 +1,4 @@
-## About the book
+# About the book
 
 Citizen Science Skilling for Library Staff, Researchers, and the Public
 
