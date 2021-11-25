@@ -1,8 +1,7 @@
-* [LIBER Citizen Science Working Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/)
-
-* [PDF](https://cs4rl.github.io/guide/pdf/9788794233590-cs4rl-skilling-v1-screen.pdf)  
-* [Webbook](https://procip.github.io/vivliostyle-viewer-latest/viewer/#src=https://procip.github.io/webbook-media-server/crisis/webbook/crisis-webbook-9781906496975.xhtml&bookMode=true)
-* [eBook](files/formats.md)
+* [Working Group Home](https://libereurope.eu/working-group/liber-citizen-science-working-group/) |
+* [PDF](https://cs4rl.github.io/viewer/9788794233590-cs4rl-skilling-v1-screen.pdf)  
+* [Paged Web](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/cs4rl/guide/main/uhtml/index.html&bookMode=true)
+* [eBook](https://cs4rl.github.io/viewer/citizen-science-skilling-for-library-staff-researchers-and-the-public.epub)
 * [Print-on-demand](files/formats.md)
 
 <!--
