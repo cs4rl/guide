@@ -1,15 +1,18 @@
 # About
 
-<p>Crisis Management</p>
-<p>Pre-release v1.0</p>
-<p>2020</p>
+## Citizen Science Skilling for Library Staff, Researchers, and the Public
 
-## Crisis Management
+Part of the four part book series: Citizen Science for Research Libraries — A Guide
 
-<p>In recent years, crisis management is gaining considerably in importance, in the public health services in general and in particular since the SARS-CoV-II pandemic globally. In Germany, decision-making authority for crisis management of biological emergencies resides in principle with the municipal health authorities.</p>
-<p><strong>In light of the current situation (as of 31 March 2020) involving the spread of the novel coronavirus, we are hereby providing extracts from a preliminary version of our textbook (Krisenmanagement) open-access in English to a global audience.</strong></p>
-<p>Crisis management tools support staff in the public health services to ensure that the authorities are able to continue functioning in biological emergencies. As a rule, normal administrative structures cannot cope with the challenges that arise in a crisis. Information and communications management for example must be adapted if it is to cope with increased demands. If sufficient specialist personnel are not available, competences have to be pooled and provided from a more central point. This textbook is designed to provide employees of public health offices, as well as other public health institutions, with pointers on how to systematically prepare themselves for preventing hazards in case of crisis, and familiarise them with the basics of crisis management. As well as covering specialised aspects, the textbook also provides recommendations in particular on operational planning and working in teams. It is supplemented with checklists designed and established in practise to serve as practical tools.</p>
-<p>The content brought together in this unique textbook is based on the authors' years of theoretical study and practical experience within public health services. <strong>This textbook is a joint work of all the authors involved, and does not represent the opinion of individual institutions or individual authors.</strong></p>
-<p>We are planning to update and expand this textbook in the future. We would therefore be delighted if you could share with us your suggestions, comments and additions. We are using <strong><a href="https://hypothes.is/">Hypothes.is</a></strong> for your comments and additions to our textbook.</p>
+Section Editor Jitka Stilund Hansen
 
---
+/#CS4RL
+
+An open access and peer-reviewed book. © 2021 the authors. Licensed Creative Commons: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), unless otherwise stated.
+
+ISBN Print: 978-87-94233-59-0    
+ISBN eBook: 978-87-94233-60-6
+
+DOI: https://doi.org/10.25815/hf0m-2a57
+
+A practical guide designed to assist those organising and participating in a citizen science project to get the most out of the experience. The guide will enable you to have the skills to ensure a project is well set up from the start, is able to communicate to its stakeholders and citizens, manage its data and outputs, and overall ensure research benefits. The guide has been compiled by the LIBER Citizen Science Working Group and pulls on the generous contributions of the open science community.
