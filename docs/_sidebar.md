@@ -1,11 +1,10 @@
 - **Navigation**
-
   - [Foreword](files/cs1001foreword.md)
   - [Introduction](files/cs1002introduction.md)
-Subsection: Project Planning and Communications
+**Project Planning and Communications**
   - [Project Planning: A Step-by-Step Guide](files/cs1003project-planning-a-stepbystep-guide.md)
   - [Communication](files/cs1004communication.md)
-Subsection: Management of Citizen Science Data
+**Management of Citizen Science Data**
   - [Management of Citizen Science Data](files/cs1005management-of-citizen-science-data.md)
   - [Research Data Management: Quick Start Guide](files/cs1006research-data-management-quick-start-guide-elearning-course.md)
   - [Use of Data Policies in Citizen Science Projects: A Step-by-step Guide](files/cs1007use-of-data-policies-in-citizen-science-projects-a-stepbystep-guide.md)
@@ -14,7 +13,7 @@ Subsection: Management of Citizen Science Data
   - [Planning and Securing Resources — The Data Management Plan](files/cs1010planning-and-securing-resources--the-data-management-plan.md)
   - [Project Highlight: FAIR Data in a Citizen Science Project](files/cs1011project-highlight-fair-data-in-a-citizen-science-project.md)
   - [Project Highlight: The INOS Project](files/cs1012project-highlight-the-inos-project.md)
-Subsection: Scientific Literacy
+**Scientific Literacy**
   - [Increasing Scientific Literacy with Citizen Science](files/cs1013increasing-scientific-literacy-with-citizen-science.md)
 
 - [**About the Book**](files/cs1000about-the-book.md)
