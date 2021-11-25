@@ -6,4 +6,4 @@
 
 - Published by the LIBER Citizen Science Working Group
 
-[Read](files/document-2.md) [About](#About)
+[Read](files/cs1001foreword.md) [About](#About)
