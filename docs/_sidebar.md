@@ -20,13 +20,16 @@
 
 - [**About the Book**](files/cs1000about-the-book.md)
 
-
 ---
 
-ISBN Print: 978-87-94233-59-0<br />    
-ISBN eBook: 978-87-94233-60-6<br />
-DOI: 10.25815/hf0m-2a57<br />
-Release: Version 1.0<br />
+ISBN Print: 978-87-94233-59-0
+
+ISBN eBook: 978-87-94233-60-6
+
+DOI: 10.25815/hf0m-2a57
+
+Release: Version 1.0
+
 CC BY 4.0 The Authors 2021
 
 ---
