@@ -4,12 +4,12 @@
     --base-font-size                                  : 16px;
     --base-font-family                                : "Open sans", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, sans-serif; /*--base-color: var(--mono-shade2);*/
     --link-color                                      : #000; /*#0A75BD*/
-    --link-color--hover                               : #F1B11A;
-    --link-border-bottom--hover                       : #F1B11A;
+    --link-color--hover                               : #659AD2;
+    --link-border-bottom--hover                       : #659AD2;
     --link-text-decoration                            : underline;
     --link-text-decoration-color                      : #000;
     --sidebar-name-color                              : #000;
-    --sidebar-background                              : #FFE3A1;
+    --sidebar-background                              : #C9D5DE;
     --sidebar-nav-link-color--active                  : #4D4D4D;
     --cover-heading-font-size-max                     : 40;
     --cover-heading-font-size-min                     : 34;
