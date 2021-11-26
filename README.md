@@ -13,7 +13,7 @@ Section Editor Jitka Stilund Hansen
 Part of the four part book series: Citizen Science for Research Libraries — A
 Guide
 
-Published by the LIBER Citizen Science Working Group
+Published by the [LIBER Citizen Science Working Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/)
 
 © 2021 the authors. Licensed Creative Commons: Attribution-ShareAlike 4.0
 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)),
