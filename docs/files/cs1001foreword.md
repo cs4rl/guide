@@ -21,7 +21,7 @@ services have pervaded many parts of people’s lives, such as — wearable heal
 tracking; data on COVID‑19, energy, or transport; and for climate change
 mitigation and monitoring. Research libraries are in a unique position to offer
 up the frameworks and infrastructures built by the open science movement for
-wider use by researcher in society. In the guide series we are aiming to share
+wider use by researchers in society. In the guide series we are aiming to share
 examples of such projects.
 
 Citizen science is a key pillar of open science. The *UNESCO Recommendation on
