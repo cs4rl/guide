@@ -1,10 +1,10 @@
-Announcement: Book Launch
+# Announcement: Book Launch
 
 November 2021
 
 ![**A picture containing shape Description automatically generated**](media/5075d20211985e458392adf86977f2fb.png)
 
-Citizen Science Skilling for Library Staff, Researchers, and the Public
+## Citizen Science Skilling for Library Staff, Researchers, and the Public
 
 \#CS4RL
 
