@@ -1,3 +1,7 @@
+# News
+
+26 Nov '21 - [Book Launch](announce-nov21.md): Citizen Science Skilling for Library Staff, Researchers, and the Public
+
 # Book Information
 
 ## Citizen Science Skilling for Library Staff, Researchers, and the Public
