@@ -1,6 +1,12 @@
 # News
 
-26 Nov '21 - [Book Launch](announce-nov21.md): Citizen Science Skilling for Library Staff, Researchers, and the Public
+## New Release on its way! Library Infrastructures & Citizen Science (Feb 22) 
+
+Section 2: Library Infrastructures & Citizen Science edited by Kirsty Wallis.
+
+![cover cs4rl infra]( https://raw.github.com/cs4rl/guide/main/covers/infrastructure/infra-Perfect-v2.jpg)
+
+## 26 Nov '21 - [Book Launch](announce-nov21.md): Citizen Science Skilling for Library Staff, Researchers, and the Public
 
 # Questions and comments 
 
