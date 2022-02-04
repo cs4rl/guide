@@ -1,6 +1,6 @@
 # News
 
-## New Release on its way! Library Infrastructures & Citizen Science (Feb 22) 
+## New release on its way! Library Infrastructures & Citizen Science (Feb 22) 
 
 Section 2: Library Infrastructures & Citizen Science edited by Kirsty Wallis.
 
