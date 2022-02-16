@@ -71,3 +71,9 @@ Stilund Hansen, and Kirsty Wallis **Co-Editors-in-Chief:** Thomas Kaarsted &
 Simon Worthington **Reviewers:** Sara Decoster & Stefan Wiederkehr.
 
 **Correspondence:** Simon Worthington, <simon.worththington@tib.eu>
+
+## Publishing process
+
+Open Peer Review - https://github.com/cs4rl/production/blob/main/opr.md
+
+
