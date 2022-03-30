@@ -5,8 +5,8 @@
   - Citizen Science Skilling for Library Staff, Researchers, and the Public - edited by Jitka Stilund Hansen - Published Nov 2021
   - Library Infrastructures & Citizen Science edited by Kirsty Wallis - Publishing ETA April 2022
   - Open Science Practice & Citizen Science edited by Bastian Greshake Tzovaras - Publishing ETA April 2022
-  - Developing Guidelines & Citizen Science edited by Paul Ayris - Publishing ETA May 2022 
-  - Collated four part series as one volume: Citizen Science for Research Libraries – A Guide - Publishing ETA May 2022 
+  - Developing Guidelines & Citizen Science edited by Paul Ayris - Publishing ETA Summer 2022 
+  - Collated four part series as one volume: Citizen Science for Research Libraries – A Guide - Publishing ETA Summer 2022 
 
 ## New release on its way! Library Infrastructures & Citizen Science 
 
