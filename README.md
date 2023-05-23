@@ -1,87 +1,45 @@
-# News
-
-## Release dates
-
-  - Citizen Science Skilling for Library Staff, Researchers, and the Public - edited by Jitka Stilund Hansen - Published Nov 2021
-  - Library Infrastructures & Citizen Science edited by Kirsty Wallis - Publishing ETA April 2022
-  - Open Science Practice & Citizen Science edited by Bastian Greshake Tzovaras - Publishing ETA April 2022
-  - Developing Guidelines & Citizen Science edited by Paul Ayris - Publishing ETA Summer 2022 
-  - Collated four part series as one volume: Citizen Science for Research Libraries – A Guide - Publishing ETA Summer 2022 
-
-## New release on its way! Library Infrastructures & Citizen Science 
-
-Section 2: Library Infrastructures & Citizen Science edited by Kirsty Wallis.
-
-![cover cs4rl infra]( https://raw.github.com/cs4rl/guide/main/covers/infrastructure/infra-Perfect-v2.jpg)
-
-## 26 Nov '21 - [Book Launch](announce-nov21.md): Citizen Science Skilling for Library Staff, Researchers, and the Public
-
-# Questions and comments 
-
-See our [discusson board](https://github.com/cs4rl/guide/discussions)
-
-# Book Information
-
-## Citizen Science Skilling for Library Staff, Researchers, and the Public
-
-![cover cs4rl skilling](media/93dcd6d1769ae63125aa42df55131efb.png)
+# Citizen Science Guide for Research Libraries
 
 \#CS4RL
 
-An open access and peer-reviewed book
+An open access and peer-reviewed guide book series from the [LIBER Citizen Science Working Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/citizen-science-guide/).
 
-Section Editor Jitka Stilund Hansen
+## Section releases
 
-Part of the four part book series: Citizen Science for Research Libraries — A
-Guide
+  - [Citizen Science Skilling for Library Staff, Researchers, and the Public]() - edited by Jitka Stilund Hansen 
+  - [Library Infrastructures and Citizen Science]() - edited by Kirsty Wallis 
+  - Open Science Practice & Citizen Science - edited by Bastian Greshake Tzovaras - Publishing ETA 2023
+  - Developing Guidelines & Citizen Science - edited by Paul Ayris - Publishing ETA 2023
+  - Collated four part series as one volume: Citizen Science for Research Libraries – A Guide - Publishing ETA 2023
 
-Published by the [LIBER Citizen Science Working Group](https://libereurope.eu/working-group/liber-citizen-science-working-group/)
+## Mission statement
 
-© 2021 the authors. Licensed Creative Commons: Attribution-ShareAlike 4.0
-International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)),
-unless otherwise stated.
+The guide is designed to be a practical and compact gateway publication for the
+purpose of assisting research libraries to start setting up a Citizen Science
+programme.
 
-Read online, DOI: <https://doi.org/10.25815/hf0m-2a57>
+Citizen Science for research libraries is a way to build new and more engaged
+audiences as a way to establish new links between science and society.
 
-ISBN Print: 978-87-94233-59-0
+The guide will address the unique context of research libraries – as becoming
+the ‘go to place’ for the new and exciting Open Science data world that is
+opening up to the wider public.
 
-ISBN eBook: 978-87-94233-60-6
+As a starting point the guide will use the four recommendations for Citizen Science
+from the [LIBER Open Science Roadmap](https://doi.org/10.5281/zenodo.1303002):
+infrastructures; good scientific practice; guidelines, and; skilling.
 
-A practical guide designed to assist those organising and participating in a
-citizen science project to get the most out of the experience. The guide will
-enable you to have the skills to ensure a project is well set up from the start,
-is able to communicate to its stakeholders and citizens, manage its data and
-outputs, and overall ensure research benefits. The guide has been compiled by
-the LIBER Citizen Science Working Group and pulls on the generous contributions
-of the open science community.
+---
 
-## Table of contents
+<p><strong>Co-Editors-in-Chief:</strong> Thomas Kaarsted &amp; Simon Worthington. Correspondence <a href="mailto:simon.worthington@tib.eu" title="simon.worthington@tib.eu">simon.worthington@tib.eu</a>. <strong>Editorial Committee:</strong> Paul Ayris (Chair), Bastian Greshake Tzovaras, Jitka Stilund Hansen, and Kirsty Wallis.</p>
+Series: <a href="https://libereurope.eu/working-group/liber-citizen-science-working-group/citizen-science-guide/" title="https://libereurope.eu/working-group/liber-citizen-science-working-group/citizen-science-guide/">libereurope.eu/cs4rl</a></p>
+<a id="pod"><p>Print-on-demand copies available from Amazon and other online retailers.</p></a>
+<p>Published by LIBER Citizen Science Working Group. </p>
+<p>Collaborations: SciStarter and ECSA.</p>
+<p>Copyright © 2023 the authors. Publication, articles, and images licensed under a Creative Commons Attribution-ShareAlike 4.0 International License – (<a href="https://creativecommons.org/licenses/by-sa/4.0/" title="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>) unless otherwise stated.</p>
+<p>Multi-format production: #NextGenBooks – Open Science Lab, <a href="https://github.com/TIBHannover/ADA. " title="https://github.com/TIBHannover/ADA. ">TIB – ADA Publishing Pipeline</a>. CSS template production courtesy Raquel Perez de Eulate, Interpunct Studios – <a href="https://interpunct.dev/" title="https://interpunct.dev/">Interpunct.dev</a>. Design based on template design: Geralda van der Es/ SPRESSO.</p>
+<p>Code – <a href="https://github.com/cs4rl/guide/LICENSE" title="https://github.com/cs4rl/guide/LICENSE">GNU General Public License v3.0</a>. Data – All data and data sets produced are <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, Public Domain.</p>
 
-**Subsection: Project Planning and Communications** \| Project Planning: A
-Step-by-Step Guide; Stakeholder Matrix. By Line Laursen and Thomas Kaarsted \|
-Communication; Communication Plan (Citizens); Project Highlight: Find a Lake. By
-Lotte Thing Rasmussen \| **Subsection: Management of Citizen Science Data** \|
-Research Data Management: Quick Start Guide (eLearning course) \| Use of Data
-Policies in Citizen Science Projects: A Step-by-step Guide. By Jitka Stilund
-Hansen \| Citizen Science Data and Standards; Project Highlight: Defining New
-Data Standards with Citizen Science. By Sven Schade and Chrisa Tsinaraki \|
-Acknowledgment of Citizen Scientists on Research Outputs; Project Highlight:
-Lizard Conservation with the Balanggarra Rangers in Australia. By Georgia
-Ward-Fear \| Planning and Securing Resources — The Data Management Plan. By
-Iryna Kuchma \| Project Highlight: FAIR Data in a Citizen Science Project \|
-Project Highlight: The INOS Project \| **Subsection: Scientific Literacy** \|
-Increasing Scientific Literacy with Citizen Science. By Berit Elisabeth Alving.
+---
 
-## Editorial
-
-**Editorial Committee:** Paul Ayris (Chair), Bastian Greshake Tzovaras, Jitka
-Stilund Hansen, and Kirsty Wallis **Co-Editors-in-Chief:** Thomas Kaarsted &
-Simon Worthington **Reviewers:** Sara Decoster & Stefan Wiederkehr.
-
-**Correspondence:** Simon Worthington, <simon.worththington@tib.eu>
-
-## Publishing process
-
-Open Peer Review - https://github.com/cs4rl/production/blob/main/opr.md
-
-
+Correspondence: Simon Worthington,  <a href="mailto:simon.worthington@tib.eu" title="simon.worthington@tib.eu">simon.worthington@tib.eu</a>
