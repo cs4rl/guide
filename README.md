@@ -8,7 +8,7 @@ An open access and peer-reviewed guide book series from the [LIBER Citizen Scien
 
   - [Citizen Science Skilling for Library Staff, Researchers, and the Public](https://cs4rl.github.io/skills/#/) - edited by Jitka Stilund Hansen 
   - [Library Infrastructures and Citizen Science](https://cs4rl.github.io/infrastructure/) - edited by Kirsty Wallis 
-  - Open Science Practice & Citizen Science - edited by Bastian Greshake Tzovaras - Publishing ETA 2023
+  - [Open Science Meets Citizen Science](https://cs4rl.github.io/open-science/) - edited by Bastian Greshake Tzovaras 
   - Developing Guidelines & Citizen Science - edited by Paul Ayris - Publishing ETA 2023
   - Collated four part series as one volume: Citizen Science for Research Libraries – A Guide - Publishing ETA 2023
 
